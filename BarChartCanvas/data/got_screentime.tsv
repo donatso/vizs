@@ -1,0 +1,3227 @@
+counter	time	type	name	value
+1-1	1		Gared	362
+1-1	1		Waymar Royce	306
+1-1	1		Will	763
+1-1	1		Wight Wildling Girl	17
+4-2	32		Wight Wildling Girl	51
+1-1	1		White Walker	79
+2-2	12		White Walker	109
+2-10	20		White Walker	209
+3-1	21		White Walker	318
+3-8	28		White Walker	381
+4-2	32		White Walker	415
+4-4	34		White Walker	563
+5-8	48		White Walker	707
+6-5	55		White Walker	771
+7-1	61		White Walker	877
+7-5	65		White Walker	883
+7-6	66		White Walker	1235
+7-7	67		White Walker	1310
+8-2	69		White Walker	1337
+8-3	70		White Walker	1557
+1-1	1	stark	Jon Snow	1099
+1-2	2	stark	Jon Snow	1938
+1-3	3	stark	Jon Snow	2554
+1-4	4	stark	Jon Snow	3421
+1-7	7	stark	Jon Snow	4082
+1-8	8	stark	Jon Snow	4526
+1-9	9	stark	Jon Snow	4980
+1-10	10	stark	Jon Snow	5323
+2-1	11	stark	Jon Snow	5697
+2-2	12	stark	Jon Snow	5952
+2-3	13	stark	Jon Snow	6103
+2-5	15	stark	Jon Snow	6429
+2-6	16	stark	Jon Snow	7135
+2-7	17	stark	Jon Snow	7598
+2-8	18	stark	Jon Snow	7757
+2-10	20	stark	Jon Snow	7981
+3-1	21	stark	Jon Snow	8416
+3-2	22	stark	Jon Snow	8576
+3-3	23	stark	Jon Snow	8712
+3-5	25	stark	Jon Snow	9091
+3-6	26	stark	Jon Snow	9736
+3-7	27	stark	Jon Snow	10130
+3-9	29	stark	Jon Snow	10441
+3-10	30	stark	Jon Snow	10601
+4-1	31	stark	Jon Snow	10815
+4-3	33	stark	Jon Snow	10977
+4-4	34	stark	Jon Snow	11497
+4-5	35	stark	Jon Snow	11938
+4-7	37	stark	Jon Snow	12108
+4-8	38	stark	Jon Snow	12219
+4-9	39	stark	Jon Snow	13476
+4-10	40	stark	Jon Snow	14419
+5-1	41	stark	Jon Snow	15236
+5-2	42	stark	Jon Snow	15720
+5-3	43	stark	Jon Snow	16272
+5-4	44	stark	Jon Snow	16579
+5-5	45	stark	Jon Snow	17189
+5-7	47	stark	Jon Snow	17324
+5-8	48	stark	Jon Snow	18773
+5-9	49	stark	Jon Snow	18944
+5-10	50	stark	Jon Snow	19485
+6-1	51	stark	Jon Snow	19957
+6-2	52	stark	Jon Snow	20412
+6-3	53	stark	Jon Snow	21029
+6-4	54	stark	Jon Snow	21550
+6-5	55	stark	Jon Snow	21790
+6-7	57	stark	Jon Snow	22535
+6-9	59	stark	Jon Snow	24323
+6-10	60	stark	Jon Snow	25012
+7-1	61	stark	Jon Snow	25474
+7-2	62	stark	Jon Snow	25970
+7-3	63	stark	Jon Snow	27163
+7-4	64	stark	Jon Snow	27817
+7-5	65	stark	Jon Snow	28741
+7-6	66	stark	Jon Snow	30966
+7-7	67	stark	Jon Snow	32852
+8-1	68	stark	Jon Snow	34026
+8-2	69	stark	Jon Snow	34930
+8-3	70	stark	Jon Snow	35661
+8-4	71	stark	Jon Snow	37034
+8-5	72	stark	Jon Snow	37839
+8-6	73	stark	Jon Snow	40365
+1-1	1	stark	Bran Stark	1083
+1-2	2	stark	Bran Stark	1729
+1-3	3	stark	Bran Stark	1911
+1-4	4	stark	Bran Stark	2117
+1-5	5	stark	Bran Stark	2272
+1-6	6	stark	Bran Stark	2591
+1-8	8	stark	Bran Stark	2953
+1-10	10	stark	Bran Stark	3115
+2-1	11	stark	Bran Stark	3322
+2-3	13	stark	Bran Stark	3507
+2-5	15	stark	Bran Stark	3716
+2-6	16	stark	Bran Stark	4185
+2-7	17	stark	Bran Stark	4246
+2-8	18	stark	Bran Stark	4302
+2-10	20	stark	Bran Stark	4502
+3-2	22	stark	Bran Stark	4929
+3-4	24	stark	Bran Stark	5008
+3-6	26	stark	Bran Stark	5189
+3-7	27	stark	Bran Stark	5427
+3-9	29	stark	Bran Stark	5856
+3-10	30	stark	Bran Stark	6270
+4-2	32	stark	Bran Stark	6451
+4-4	34	stark	Bran Stark	6727
+4-5	35	stark	Bran Stark	7184
+4-10	40	stark	Bran Stark	7697
+6-2	52	stark	Bran Stark	7989
+6-3	53	stark	Bran Stark	8382
+6-5	55	stark	Bran Stark	9143
+6-6	56	stark	Bran Stark	9518
+6-10	60	stark	Bran Stark	9804
+7-1	61	stark	Bran Stark	9893
+7-3	63	stark	Bran Stark	10047
+7-4	64	stark	Bran Stark	10463
+7-5	65	stark	Bran Stark	10487
+7-7	67	stark	Bran Stark	11050
+8-1	68	stark	Bran Stark	11378
+8-2	69	stark	Bran Stark	11990
+8-3	70	stark	Bran Stark	12536
+8-4	71	stark	Bran Stark	13317
+8-6	73	stark	Bran Stark	14346
+1-1	1	stark	Robb Stark	859
+1-2	2	stark	Robb Stark	1205
+1-3	3	stark	Robb Stark	1387
+1-4	4	stark	Robb Stark	1490
+1-6	6	stark	Robb Stark	1763
+1-8	8	stark	Robb Stark	2414
+1-9	9	stark	Robb Stark	2777
+1-10	10	stark	Robb Stark	3033
+2-1	11	stark	Robb Stark	3572
+2-4	14	stark	Robb Stark	3787
+2-6	16	stark	Robb Stark	4081
+2-7	17	stark	Robb Stark	4245
+2-8	18	stark	Robb Stark	4920
+2-10	20	stark	Robb Stark	5075
+3-1	21	stark	Robb Stark	5245
+3-2	22	stark	Robb Stark	5450
+3-3	23	stark	Robb Stark	5724
+3-5	25	stark	Robb Stark	6127
+3-6	26	stark	Robb Stark	6353
+3-7	27	stark	Robb Stark	6661
+3-9	29	stark	Robb Stark	7690
+3-10	30	stark	Robb Stark	7711
+6-6	56	stark	Robb Stark	7721
+1-1	1	stark	Eddard Stark	1604
+1-2	2	stark	Eddard Stark	2482
+1-3	3	stark	Eddard Stark	3596
+1-4	4	stark	Eddard Stark	4348
+1-5	5	stark	Eddard Stark	5725
+1-6	6	stark	Eddard Stark	6386
+1-7	7	stark	Eddard Stark	7594
+1-8	8	stark	Eddard Stark	7786
+1-9	9	stark	Eddard Stark	8357
+1-10	10	stark	Eddard Stark	8563
+4-2	32	stark	Eddard Stark	8597
+6-6	56	stark	Eddard Stark	8604
+1-1	1	stark	Catelyn Stark	1121
+1-2	2	stark	Catelyn Stark	1919
+1-3	3	stark	Catelyn Stark	2262
+1-4	4	stark	Catelyn Stark	2446
+1-5	5	stark	Catelyn Stark	2833
+1-6	6	stark	Catelyn Stark	3435
+1-8	8	stark	Catelyn Stark	3926
+1-9	9	stark	Catelyn Stark	4533
+1-10	10	stark	Catelyn Stark	4972
+2-1	11	stark	Catelyn Stark	5143
+2-3	13	stark	Catelyn Stark	5472
+2-4	14	stark	Catelyn Stark	5893
+2-5	15	stark	Catelyn Stark	6284
+2-6	16	stark	Catelyn Stark	6445
+2-7	17	stark	Catelyn Stark	6772
+2-8	18	stark	Catelyn Stark	6873
+2-10	20	stark	Catelyn Stark	6977
+3-1	21	stark	Catelyn Stark	7082
+3-2	22	stark	Catelyn Stark	7347
+3-3	23	stark	Catelyn Stark	7627
+3-4	24	stark	Catelyn Stark	7643
+3-5	25	stark	Catelyn Stark	7917
+3-6	26	stark	Catelyn Stark	8143
+3-7	27	stark	Catelyn Stark	8216
+3-9	29	stark	Catelyn Stark	9290
+6-6	56	stark	Catelyn Stark	9297
+1-1	1	stark	Rickon Stark	528
+1-8	8	stark	Rickon Stark	650
+1-10	10	stark	Rickon Stark	726
+2-5	15	stark	Rickon Stark	823
+2-6	16	stark	Rickon Stark	1150
+2-7	17	stark	Rickon Stark	1211
+2-8	18	stark	Rickon Stark	1267
+2-10	20	stark	Rickon Stark	1467
+3-2	22	stark	Rickon Stark	1594
+3-6	26	stark	Rickon Stark	1775
+3-7	27	stark	Rickon Stark	2013
+3-9	29	stark	Rickon Stark	2428
+6-3	53	stark	Rickon Stark	2504
+6-9	59	stark	Rickon Stark	2770
+1-1	1	stark	Sansa Stark	773
+1-2	2	stark	Sansa Stark	1296
+1-3	3	stark	Sansa Stark	1432
+1-4	4	stark	Sansa Stark	1784
+1-5	5	stark	Sansa Stark	2023
+1-6	6	stark	Sansa Stark	2343
+1-8	8	stark	Sansa Stark	2907
+1-9	9	stark	Sansa Stark	3237
+1-10	10	stark	Sansa Stark	3608
+2-1	11	stark	Sansa Stark	3869
+2-3	13	stark	Sansa Stark	4090
+2-4	14	stark	Sansa Stark	4262
+2-6	16	stark	Sansa Stark	4550
+2-7	17	stark	Sansa Stark	4855
+2-9	19	stark	Sansa Stark	5715
+2-10	20	stark	Sansa Stark	6063
+3-1	21	stark	Sansa Stark	6284
+3-2	22	stark	Sansa Stark	6696
+3-4	24	stark	Sansa Stark	6864
+3-5	25	stark	Sansa Stark	7011
+3-6	26	stark	Sansa Stark	7231
+3-7	27	stark	Sansa Stark	7420
+3-8	28	stark	Sansa Stark	8286
+3-10	30	stark	Sansa Stark	8432
+4-1	31	stark	Sansa Stark	8746
+4-2	32	stark	Sansa Stark	9776
+4-3	33	stark	Sansa Stark	10009
+4-4	34	stark	Sansa Stark	10191
+4-5	35	stark	Sansa Stark	10685
+4-7	37	stark	Sansa Stark	11183
+4-8	38	stark	Sansa Stark	11562
+5-1	41	stark	Sansa Stark	11682
+5-2	42	stark	Sansa Stark	11941
+5-3	43	stark	Sansa Stark	12243
+5-4	44	stark	Sansa Stark	12559
+5-5	45	stark	Sansa Stark	13103
+5-6	46	stark	Sansa Stark	13755
+5-7	47	stark	Sansa Stark	14110
+5-8	48	stark	Sansa Stark	14280
+5-10	50	stark	Sansa Stark	14481
+6-1	51	stark	Sansa Stark	14885
+6-2	52	stark	Sansa Stark	15061
+6-4	54	stark	Sansa Stark	15547
+6-5	55	stark	Sansa Stark	16112
+6-7	57	stark	Sansa Stark	16898
+6-9	59	stark	Sansa Stark	17745
+6-10	60	stark	Sansa Stark	18329
+7-1	61	stark	Sansa Stark	18884
+7-2	62	stark	Sansa Stark	19235
+7-3	63	stark	Sansa Stark	19556
+7-4	64	stark	Sansa Stark	20086
+7-5	65	stark	Sansa Stark	20264
+7-6	66	stark	Sansa Stark	21073
+7-7	67	stark	Sansa Stark	21765
+8-1	68	stark	Sansa Stark	22292
+8-2	69	stark	Sansa Stark	23076
+8-3	70	stark	Sansa Stark	23566
+8-4	71	stark	Sansa Stark	24707
+8-6	73	stark	Sansa Stark	25705
+1-1	1	stark	Arya Stark	722
+1-2	2	stark	Arya Stark	1322
+1-3	3	stark	Arya Stark	1887
+1-4	4	stark	Arya Stark	2244
+1-5	5	stark	Arya Stark	2528
+1-6	6	stark	Arya Stark	2787
+1-8	8	stark	Arya Stark	3014
+1-9	9	stark	Arya Stark	3402
+1-10	10	stark	Arya Stark	3655
+2-1	11	stark	Arya Stark	3684
+2-2	12	stark	Arya Stark	4151
+2-3	13	stark	Arya Stark	4702
+2-4	14	stark	Arya Stark	5114
+2-5	15	stark	Arya Stark	5534
+2-6	16	stark	Arya Stark	6068
+2-7	17	stark	Arya Stark	6431
+2-8	18	stark	Arya Stark	6843
+2-10	20	stark	Arya Stark	7028
+3-2	22	stark	Arya Stark	7438
+3-3	23	stark	Arya Stark	7617
+3-4	24	stark	Arya Stark	7919
+3-5	25	stark	Arya Stark	8440
+3-6	26	stark	Arya Stark	8756
+3-7	27	stark	Arya Stark	8892
+3-8	28	stark	Arya Stark	9059
+3-9	29	stark	Arya Stark	9459
+3-10	30	stark	Arya Stark	9640
+4-1	31	stark	Arya Stark	10255
+4-3	33	stark	Arya Stark	10636
+4-5	35	stark	Arya Stark	10876
+4-7	37	stark	Arya Stark	11362
+4-8	38	stark	Arya Stark	11490
+4-10	40	stark	Arya Stark	12150
+5-2	42	stark	Arya Stark	12569
+5-3	43	stark	Arya Stark	13139
+5-6	46	stark	Arya Stark	13871
+5-8	48	stark	Arya Stark	14147
+5-9	49	stark	Arya Stark	14653
+5-10	50	stark	Arya Stark	14920
+6-1	51	stark	Arya Stark	15058
+6-2	52	stark	Arya Stark	15175
+6-3	53	stark	Arya Stark	15475
+6-5	55	stark	Arya Stark	16029
+6-6	56	stark	Arya Stark	16425
+6-7	57	stark	Arya Stark	16567
+6-8	58	stark	Arya Stark	17161
+6-10	60	stark	Arya Stark	17214
+7-1	61	stark	Arya Stark	17505
+7-2	62	stark	Arya Stark	17887
+7-4	64	stark	Arya Stark	18571
+7-5	65	stark	Arya Stark	18980
+7-6	66	stark	Arya Stark	19503
+7-7	67	stark	Arya Stark	19958
+8-1	68	stark	Arya Stark	20250
+8-2	69	stark	Arya Stark	20926
+8-3	70	stark	Arya Stark	21688
+8-4	71	stark	Arya Stark	22438
+8-5	72	stark	Arya Stark	23192
+8-6	73	stark	Arya Stark	24315
+1-1	1	greyjoy	Theon Greyjoy	1196
+1-2	2	greyjoy	Theon Greyjoy	1305
+1-4	4	greyjoy	Theon Greyjoy	1549
+1-5	5	greyjoy	Theon Greyjoy	1808
+1-6	6	greyjoy	Theon Greyjoy	2174
+1-7	7	greyjoy	Theon Greyjoy	2396
+1-8	8	greyjoy	Theon Greyjoy	2802
+1-9	9	greyjoy	Theon Greyjoy	3134
+1-10	10	greyjoy	Theon Greyjoy	3270
+2-1	11	greyjoy	Theon Greyjoy	3430
+2-2	12	greyjoy	Theon Greyjoy	4005
+2-3	13	greyjoy	Theon Greyjoy	4380
+2-5	15	greyjoy	Theon Greyjoy	4604
+2-6	16	greyjoy	Theon Greyjoy	5195
+2-7	17	greyjoy	Theon Greyjoy	5495
+2-8	18	greyjoy	Theon Greyjoy	5769
+2-10	20	greyjoy	Theon Greyjoy	6178
+3-2	22	greyjoy	Theon Greyjoy	6343
+3-3	23	greyjoy	Theon Greyjoy	6649
+3-4	24	greyjoy	Theon Greyjoy	6910
+3-6	26	greyjoy	Theon Greyjoy	7242
+3-7	27	greyjoy	Theon Greyjoy	7565
+3-10	30	greyjoy	Theon Greyjoy	7783
+4-2	32	greyjoy	Theon Greyjoy	8219
+4-6	36	greyjoy	Theon Greyjoy	8602
+4-8	38	greyjoy	Theon Greyjoy	8973
+5-3	43	greyjoy	Theon Greyjoy	9218
+5-5	45	greyjoy	Theon Greyjoy	9607
+5-6	46	greyjoy	Theon Greyjoy	10049
+5-7	47	greyjoy	Theon Greyjoy	10314
+5-8	48	greyjoy	Theon Greyjoy	10484
+5-10	50	greyjoy	Theon Greyjoy	10608
+6-1	51	greyjoy	Theon Greyjoy	11012
+6-2	52	greyjoy	Theon Greyjoy	11148
+6-4	54	greyjoy	Theon Greyjoy	11334
+6-5	55	greyjoy	Theon Greyjoy	11700
+6-7	57	greyjoy	Theon Greyjoy	11897
+6-9	59	greyjoy	Theon Greyjoy	12141
+6-10	60	greyjoy	Theon Greyjoy	12234
+7-2	62	greyjoy	Theon Greyjoy	12747
+7-3	63	greyjoy	Theon Greyjoy	12793
+7-4	64	greyjoy	Theon Greyjoy	12891
+7-7	67	greyjoy	Theon Greyjoy	14787
+8-1	68	greyjoy	Theon Greyjoy	14894
+8-2	69	greyjoy	Theon Greyjoy	15159
+8-3	70	greyjoy	Theon Greyjoy	15572
+8-4	71	greyjoy	Theon Greyjoy	15675
+1-1	1		Rodrik Cassel	1111
+1-2	2		Rodrik Cassel	1220
+1-3	3		Rodrik Cassel	1491
+1-4	4		Rodrik Cassel	1675
+1-5	5		Rodrik Cassel	1943
+1-6	6		Rodrik Cassel	2545
+1-8	8		Rodrik Cassel	2799
+1-9	9		Rodrik Cassel	3183
+1-10	10		Rodrik Cassel	3319
+2-1	11		Rodrik Cassel	3411
+2-5	15		Rodrik Cassel	3452
+2-6	16		Rodrik Cassel	3668
+1-1	1		Septa Mordane	191
+1-3	3		Septa Mordane	327
+1-4	4		Septa Mordane	679
+1-5	5		Septa Mordane	918
+1-6	6		Septa Mordane	1091
+1-8	8		Septa Mordane	1133
+1-10	10		Septa Mordane	1293
+1-1	1		Jory Cassel	703
+1-2	2		Jory Cassel	990
+1-3	3		Jory Cassel	1144
+1-4	4		Jory Cassel	1424
+1-5	5		Jory Cassel	1996
+1-1	1	stark	Grey Wind	183
+1-4	4	stark	Grey Wind	286
+1-8	8	stark	Grey Wind	390
+2-1	11	stark	Grey Wind	598
+2-4	14	stark	Grey Wind	707
+3-2	22	stark	Grey Wind	773
+3-9	29	stark	Grey Wind	845
+3-10	30	stark	Grey Wind	866
+1-1	1	stark	Lady	183
+1-2	2	stark	Lady	332
+1-1	1	stark	Nymeria	183
+1-2	2	stark	Nymeria	534
+7-2	62	stark	Nymeria	611
+1-1	1	stark	Summer	709
+1-2	2	stark	Summer	937
+1-4	4	stark	Summer	991
+2-1	11	stark	Summer	1024
+2-3	13	stark	Summer	1057
+2-6	16	stark	Summer	1076
+2-7	17	stark	Summer	1137
+2-10	20	stark	Summer	1237
+3-2	22	stark	Summer	1518
+3-9	29	stark	Summer	1564
+3-10	30	stark	Summer	1978
+4-2	32	stark	Summer	2023
+4-4	34	stark	Summer	2096
+4-10	40	stark	Summer	2459
+6-5	55	stark	Summer	2668
+1-1	1	stark	Shaggydog	183
+1-10	10	stark	Shaggydog	259
+2-6	16	stark	Shaggydog	278
+2-7	17	stark	Shaggydog	339
+2-10	20	stark	Shaggydog	439
+3-2	22	stark	Shaggydog	507
+3-9	29	stark	Shaggydog	562
+6-3	53	stark	Shaggydog	589
+6-9	59	stark	Shaggydog	594
+1-1	1	stark	Ghost	183
+1-2	2	stark	Ghost	383
+1-4	4	stark	Ghost	409
+1-7	7	stark	Ghost	537
+1-8	8	stark	Ghost	678
+1-10	10	stark	Ghost	858
+2-2	12	stark	Ghost	904
+2-5	15	stark	Ghost	1011
+2-6	16	stark	Ghost	1172
+3-1	21	stark	Ghost	1259
+3-3	23	stark	Ghost	1296
+4-4	34	stark	Ghost	1394
+4-5	35	stark	Ghost	1511
+4-7	37	stark	Ghost	1545
+4-9	39	stark	Ghost	1564
+5-1	41	stark	Ghost	1612
+5-7	47	stark	Ghost	1622
+6-1	51	stark	Ghost	1834
+6-2	52	stark	Ghost	2249
+6-3	53	stark	Ghost	2318
+8-2	69	stark	Ghost	2447
+8-3	70	stark	Ghost	2532
+8-4	71	stark	Ghost	2770
+8-6	73	stark	Ghost	2909
+1-1	1		Jon Arryn	121
+1-1	1	lannister	Cersei Lannister	786
+1-2	2	lannister	Cersei Lannister	1314
+1-3	3	lannister	Cersei Lannister	1542
+1-4	4	lannister	Cersei Lannister	1891
+1-5	5	lannister	Cersei Lannister	2270
+1-6	6	lannister	Cersei Lannister	2539
+1-7	7	lannister	Cersei Lannister	3224
+1-8	8	lannister	Cersei Lannister	3725
+1-9	9	lannister	Cersei Lannister	4055
+1-10	10	lannister	Cersei Lannister	4252
+2-1	11	lannister	Cersei Lannister	4798
+2-2	12	lannister	Cersei Lannister	5075
+2-3	13	lannister	Cersei Lannister	5245
+2-5	15	lannister	Cersei Lannister	5343
+2-6	16	lannister	Cersei Lannister	5533
+2-7	17	lannister	Cersei Lannister	5901
+2-8	18	lannister	Cersei Lannister	6225
+2-9	19	lannister	Cersei Lannister	7000
+2-10	20	lannister	Cersei Lannister	7273
+3-1	21	lannister	Cersei Lannister	7686
+3-2	22	lannister	Cersei Lannister	7817
+3-3	23	lannister	Cersei Lannister	8061
+3-4	24	lannister	Cersei Lannister	8404
+3-5	25	lannister	Cersei Lannister	8674
+3-6	26	lannister	Cersei Lannister	8846
+3-8	28	lannister	Cersei Lannister	9275
+3-10	30	lannister	Cersei Lannister	9702
+4-1	31	lannister	Cersei Lannister	9897
+4-2	32	lannister	Cersei Lannister	11155
+4-3	33	lannister	Cersei Lannister	11645
+4-4	34	lannister	Cersei Lannister	11799
+4-5	35	lannister	Cersei Lannister	12497
+4-6	36	lannister	Cersei Lannister	13627
+4-7	37	lannister	Cersei Lannister	13687
+4-8	38	lannister	Cersei Lannister	13987
+4-10	40	lannister	Cersei Lannister	14396
+5-1	41	lannister	Cersei Lannister	14773
+5-2	42	lannister	Cersei Lannister	15131
+5-3	43	lannister	Cersei Lannister	15679
+5-4	44	lannister	Cersei Lannister	15939
+5-6	46	lannister	Cersei Lannister	16585
+5-7	47	lannister	Cersei Lannister	17235
+5-8	48	lannister	Cersei Lannister	17526
+5-10	50	lannister	Cersei Lannister	18323
+6-1	51	lannister	Cersei Lannister	18576
+6-2	52	lannister	Cersei Lannister	18787
+6-3	53	lannister	Cersei Lannister	19017
+6-4	54	lannister	Cersei Lannister	19369
+6-6	56	lannister	Cersei Lannister	19488
+6-7	57	lannister	Cersei Lannister	19618
+6-8	58	lannister	Cersei Lannister	19989
+6-10	60	lannister	Cersei Lannister	20545
+7-1	61	lannister	Cersei Lannister	21084
+7-2	62	lannister	Cersei Lannister	21289
+7-3	63	lannister	Cersei Lannister	21977
+7-4	64	lannister	Cersei Lannister	22067
+7-5	65	lannister	Cersei Lannister	22391
+7-7	67	lannister	Cersei Lannister	23971
+8-1	68	lannister	Cersei Lannister	24265
+8-4	71	lannister	Cersei Lannister	24806
+8-5	72	lannister	Cersei Lannister	25392
+8-6	73	lannister	Cersei Lannister	25522
+1-1	1	lannister	Jaime Lannister	893
+1-2	2	lannister	Jaime Lannister	1128
+1-3	3	lannister	Jaime Lannister	1624
+1-4	4	lannister	Jaime Lannister	1741
+1-5	5	lannister	Jaime Lannister	1934
+1-7	7	lannister	Jaime Lannister	2217
+1-9	9	lannister	Jaime Lannister	2340
+1-10	10	lannister	Jaime Lannister	2523
+2-1	11	lannister	Jaime Lannister	2731
+2-7	17	lannister	Jaime Lannister	3445
+2-8	18	lannister	Jaime Lannister	3588
+2-10	20	lannister	Jaime Lannister	3886
+3-2	22	lannister	Jaime Lannister	4357
+3-3	23	lannister	Jaime Lannister	4794
+3-4	24	lannister	Jaime Lannister	5094
+3-5	25	lannister	Jaime Lannister	5707
+3-6	26	lannister	Jaime Lannister	5845
+3-7	27	lannister	Jaime Lannister	6479
+3-10	30	lannister	Jaime Lannister	6560
+4-1	31	lannister	Jaime Lannister	7121
+4-2	32	lannister	Jaime Lannister	7645
+4-3	33	lannister	Jaime Lannister	7871
+4-4	34	lannister	Jaime Lannister	8584
+4-5	35	lannister	Jaime Lannister	8656
+4-6	36	lannister	Jaime Lannister	9804
+4-7	37	lannister	Jaime Lannister	9986
+4-8	38	lannister	Jaime Lannister	10631
+4-10	40	lannister	Jaime Lannister	10829
+5-1	41	lannister	Jaime Lannister	10965
+5-2	42	lannister	Jaime Lannister	11194
+5-4	44	lannister	Jaime Lannister	11752
+5-6	46	lannister	Jaime Lannister	12016
+5-7	47	lannister	Jaime Lannister	12093
+5-9	49	lannister	Jaime Lannister	12466
+5-10	50	lannister	Jaime Lannister	12718
+6-1	51	lannister	Jaime Lannister	12939
+6-2	52	lannister	Jaime Lannister	13223
+6-3	53	lannister	Jaime Lannister	13453
+6-4	54	lannister	Jaime Lannister	13609
+6-6	56	lannister	Jaime Lannister	14108
+6-7	57	lannister	Jaime Lannister	14610
+6-8	58	lannister	Jaime Lannister	15300
+6-10	60	lannister	Jaime Lannister	15666
+7-1	61	lannister	Jaime Lannister	16192
+7-2	62	lannister	Jaime Lannister	16423
+7-3	63	lannister	Jaime Lannister	17069
+7-4	64	lannister	Jaime Lannister	17706
+7-5	65	lannister	Jaime Lannister	18295
+7-7	67	lannister	Jaime Lannister	19740
+8-1	68	lannister	Jaime Lannister	19814
+8-2	69	lannister	Jaime Lannister	21200
+8-3	70	lannister	Jaime Lannister	21556
+8-4	71	lannister	Jaime Lannister	22731
+8-5	72	lannister	Jaime Lannister	23545
+8-6	73	lannister	Jaime Lannister	23675
+1-1	1		Maester Luwin	544
+1-2	2		Maester Luwin	845
+1-4	4		Maester Luwin	948
+1-5	5		Maester Luwin	1103
+1-7	7		Maester Luwin	1325
+1-8	8		Maester Luwin	1398
+1-10	10		Maester Luwin	1425
+2-1	11		Maester Luwin	1541
+2-3	13		Maester Luwin	1711
+2-5	15		Maester Luwin	1808
+2-6	16		Maester Luwin	2155
+2-7	17		Maester Luwin	2381
+2-8	18		Maester Luwin	2467
+2-10	20		Maester Luwin	2916
+1-1	1	baratheon	Joffrey Baratheon	531
+1-2	2	baratheon	Joffrey Baratheon	1151
+1-3	3	baratheon	Joffrey Baratheon	1310
+1-4	4	baratheon	Joffrey Baratheon	1559
+1-5	5	baratheon	Joffrey Baratheon	1798
+1-6	6	baratheon	Joffrey Baratheon	1971
+1-7	7	baratheon	Joffrey Baratheon	2475
+1-8	8	baratheon	Joffrey Baratheon	2844
+1-9	9	baratheon	Joffrey Baratheon	3174
+1-10	10	baratheon	Joffrey Baratheon	3625
+2-1	11	baratheon	Joffrey Baratheon	4031
+2-4	14	baratheon	Joffrey Baratheon	4423
+2-6	16	baratheon	Joffrey Baratheon	4649
+2-8	18	baratheon	Joffrey Baratheon	4713
+2-9	19	baratheon	Joffrey Baratheon	5093
+2-10	20	baratheon	Joffrey Baratheon	5366
+3-1	21	baratheon	Joffrey Baratheon	5583
+3-2	22	baratheon	Joffrey Baratheon	6000
+3-4	24	baratheon	Joffrey Baratheon	6200
+3-6	26	baratheon	Joffrey Baratheon	6219
+3-7	27	baratheon	Joffrey Baratheon	6427
+3-8	28	baratheon	Joffrey Baratheon	6851
+3-10	30	baratheon	Joffrey Baratheon	7051
+4-1	31	baratheon	Joffrey Baratheon	7166
+4-2	32	baratheon	Joffrey Baratheon	8332
+4-3	33	baratheon	Joffrey Baratheon	8811
+1-1	1		Sandor Clegane	415
+1-2	2		Sandor Clegane	654
+1-4	4		Sandor Clegane	903
+1-5	5		Sandor Clegane	1142
+1-7	7		Sandor Clegane	1351
+1-8	8		Sandor Clegane	1741
+1-9	9		Sandor Clegane	2071
+1-10	10		Sandor Clegane	2442
+2-1	11		Sandor Clegane	2703
+2-4	14		Sandor Clegane	2899
+2-6	16		Sandor Clegane	3144
+2-7	17		Sandor Clegane	3214
+2-9	19		Sandor Clegane	3887
+3-2	22		Sandor Clegane	3939
+3-3	23		Sandor Clegane	3964
+3-4	24		Sandor Clegane	4227
+3-5	25		Sandor Clegane	4478
+3-7	27		Sandor Clegane	4491
+3-8	28		Sandor Clegane	4658
+3-9	29		Sandor Clegane	4989
+3-10	30		Sandor Clegane	5170
+4-1	31		Sandor Clegane	5730
+4-3	33		Sandor Clegane	6111
+4-5	35		Sandor Clegane	6332
+4-7	37		Sandor Clegane	6818
+4-8	38		Sandor Clegane	6946
+4-10	40		Sandor Clegane	7498
+6-7	57		Sandor Clegane	8081
+6-8	58		Sandor Clegane	8404
+7-1	61		Sandor Clegane	8959
+7-5	65		Sandor Clegane	9162
+7-6	66		Sandor Clegane	10961
+7-7	67		Sandor Clegane	12061
+8-1	68		Sandor Clegane	12141
+8-2	69		Sandor Clegane	12303
+8-3	70		Sandor Clegane	12832
+8-4	71		Sandor Clegane	13396
+8-5	72		Sandor Clegane	13888
+1-1	1		Hodor	337
+1-4	4		Hodor	494
+1-6	6		Hodor	505
+1-8	8		Hodor	641
+1-10	10		Hodor	672
+2-1	11		Hodor	756
+2-3	13		Hodor	807
+2-5	15		Hodor	1016
+2-6	16		Hodor	1395
+2-7	17		Hodor	1456
+2-8	18		Hodor	1512
+2-10	20		Hodor	1712
+3-2	22		Hodor	1899
+3-6	26		Hodor	2080
+3-7	27		Hodor	2318
+3-9	29		Hodor	2711
+3-10	30		Hodor	3125
+4-2	32		Hodor	3272
+4-4	34		Hodor	3420
+4-5	35		Hodor	3793
+4-10	40		Hodor	4306
+6-2	52		Hodor	4404
+6-5	55		Hodor	4831
+1-1	1	baratheon	Robert Baratheon	771
+1-2	2	baratheon	Robert Baratheon	1219
+1-3	3	baratheon	Robert Baratheon	1491
+1-4	4	baratheon	Robert Baratheon	1740
+1-5	5	baratheon	Robert Baratheon	2726
+1-6	6	baratheon	Robert Baratheon	3108
+1-7	7	baratheon	Robert Baratheon	3423
+1-1	1	baratheon	Myrcella Baratheon	337
+1-2	2	baratheon	Myrcella Baratheon	470
+1-4	4	baratheon	Myrcella Baratheon	719
+1-5	5	baratheon	Myrcella Baratheon	958
+2-1	11	baratheon	Myrcella Baratheon	1180
+2-3	13	baratheon	Myrcella Baratheon	1268
+2-5	15	baratheon	Myrcella Baratheon	1272
+2-6	16	baratheon	Myrcella Baratheon	1329
+5-2	42	baratheon	Myrcella Baratheon	1362
+5-6	46	baratheon	Myrcella Baratheon	1608
+5-7	47	baratheon	Myrcella Baratheon	1685
+5-9	49	baratheon	Myrcella Baratheon	1952
+5-10	50	baratheon	Myrcella Baratheon	2204
+6-2	52	baratheon	Myrcella Baratheon	2488
+1-1	1	baratheon	Tommen Baratheon	337
+1-2	2	baratheon	Tommen Baratheon	470
+1-4	4	baratheon	Tommen Baratheon	719
+1-5	5	baratheon	Tommen Baratheon	958
+2-1	11	baratheon	Tommen Baratheon	1180
+2-3	13	baratheon	Tommen Baratheon	1268
+2-6	16	baratheon	Tommen Baratheon	1386
+2-9	19	baratheon	Tommen Baratheon	1682
+4-2	32	baratheon	Tommen Baratheon	2606
+4-3	33	baratheon	Tommen Baratheon	2876
+4-4	34	baratheon	Tommen Baratheon	3092
+4-5	35	baratheon	Tommen Baratheon	3256
+4-6	36	baratheon	Tommen Baratheon	3368
+5-1	41	baratheon	Tommen Baratheon	3401
+5-3	43	baratheon	Tommen Baratheon	3682
+5-4	44	baratheon	Tommen Baratheon	3922
+5-6	46	baratheon	Tommen Baratheon	4190
+5-7	47	baratheon	Tommen Baratheon	4380
+6-2	52	baratheon	Tommen Baratheon	4634
+6-3	53	baratheon	Tommen Baratheon	4862
+6-4	54	baratheon	Tommen Baratheon	5058
+6-6	56	baratheon	Tommen Baratheon	5463
+6-8	58	baratheon	Tommen Baratheon	5626
+6-10	60	baratheon	Tommen Baratheon	5855
+1-1	1	lannister	Tyrion Lannister	383
+1-2	2	lannister	Tyrion Lannister	949
+1-3	3	lannister	Tyrion Lannister	1584
+1-4	4	lannister	Tyrion Lannister	1958
+1-5	5	lannister	Tyrion Lannister	2386
+1-6	6	lannister	Tyrion Lannister	3173
+1-8	8	lannister	Tyrion Lannister	3698
+1-9	9	lannister	Tyrion Lannister	4625
+1-10	10	lannister	Tyrion Lannister	4903
+2-1	11	lannister	Tyrion Lannister	5460
+2-2	12	lannister	Tyrion Lannister	6113
+2-3	13	lannister	Tyrion Lannister	6845
+2-4	14	lannister	Tyrion Lannister	7197
+2-5	15	lannister	Tyrion Lannister	7671
+2-6	16	lannister	Tyrion Lannister	7916
+2-7	17	lannister	Tyrion Lannister	8118
+2-8	18	lannister	Tyrion Lannister	8945
+2-9	19	lannister	Tyrion Lannister	9782
+2-10	20	lannister	Tyrion Lannister	10160
+3-1	21	lannister	Tyrion Lannister	10719
+3-2	22	lannister	Tyrion Lannister	10920
+3-3	23	lannister	Tyrion Lannister	11574
+3-4	24	lannister	Tyrion Lannister	11819
+3-5	25	lannister	Tyrion Lannister	12180
+3-6	26	lannister	Tyrion Lannister	12413
+3-7	27	lannister	Tyrion Lannister	12629
+3-8	28	lannister	Tyrion Lannister	13533
+3-10	30	lannister	Tyrion Lannister	14306
+4-1	31	lannister	Tyrion Lannister	14934
+4-2	32	lannister	Tyrion Lannister	16367
+4-3	33	lannister	Tyrion Lannister	16687
+4-4	34	lannister	Tyrion Lannister	16848
+4-6	36	lannister	Tyrion Lannister	17859
+4-7	37	lannister	Tyrion Lannister	18609
+4-8	38	lannister	Tyrion Lannister	19289
+4-10	40	lannister	Tyrion Lannister	19786
+5-1	41	lannister	Tyrion Lannister	20187
+5-2	42	lannister	Tyrion Lannister	20333
+5-3	43	lannister	Tyrion Lannister	20745
+5-4	44	lannister	Tyrion Lannister	21016
+5-5	45	lannister	Tyrion Lannister	21484
+5-6	46	lannister	Tyrion Lannister	21955
+5-7	47	lannister	Tyrion Lannister	22348
+5-8	48	lannister	Tyrion Lannister	22953
+5-9	49	lannister	Tyrion Lannister	23897
+5-10	50	lannister	Tyrion Lannister	24255
+6-1	51	lannister	Tyrion Lannister	24468
+6-2	52	lannister	Tyrion Lannister	24839
+6-3	53	lannister	Tyrion Lannister	25042
+6-4	54	lannister	Tyrion Lannister	25466
+6-5	55	lannister	Tyrion Lannister	25809
+6-8	58	lannister	Tyrion Lannister	26245
+6-9	59	lannister	Tyrion Lannister	26879
+6-10	60	lannister	Tyrion Lannister	27107
+7-1	61	lannister	Tyrion Lannister	27441
+7-2	62	lannister	Tyrion Lannister	28126
+7-3	63	lannister	Tyrion Lannister	29434
+7-4	64	lannister	Tyrion Lannister	29682
+7-5	65	lannister	Tyrion Lannister	30697
+7-6	66	lannister	Tyrion Lannister	31068
+7-7	67	lannister	Tyrion Lannister	32956
+8-1	68	lannister	Tyrion Lannister	33454
+8-2	69	lannister	Tyrion Lannister	34757
+8-3	70	lannister	Tyrion Lannister	35195
+8-4	71	lannister	Tyrion Lannister	37571
+8-5	72	lannister	Tyrion Lannister	38600
+8-6	73	lannister	Tyrion Lannister	41104
+1-1	1		Ros	130
+1-5	5		Ros	234
+1-6	6		Ros	327
+1-7	7		Ros	631
+1-10	10		Ros	816
+2-1	11		Ros	966
+2-2	12		Ros	1175
+2-4	14		Ros	1371
+2-8	18		Ros	1428
+2-10	20		Ros	1575
+3-1	21		Ros	1679
+3-3	23		Ros	1721
+3-4	24		Ros	1830
+3-6	26		Ros	1849
+1-1	1	targaryen	Daenerys Targaryen	819
+1-2	2	targaryen	Daenerys Targaryen	1397
+1-3	3	targaryen	Daenerys Targaryen	1702
+1-4	4	targaryen	Daenerys Targaryen	1975
+1-6	6	targaryen	Daenerys Targaryen	2559
+1-7	7	targaryen	Daenerys Targaryen	3137
+1-8	8	targaryen	Daenerys Targaryen	3516
+1-9	9	targaryen	Daenerys Targaryen	4082
+1-10	10	targaryen	Daenerys Targaryen	4900
+2-1	11	targaryen	Daenerys Targaryen	5138
+2-2	12	targaryen	Daenerys Targaryen	5309
+2-4	14	targaryen	Daenerys Targaryen	5701
+2-5	15	targaryen	Daenerys Targaryen	6334
+2-6	16	targaryen	Daenerys Targaryen	6708
+2-7	17	targaryen	Daenerys Targaryen	7073
+2-8	18	targaryen	Daenerys Targaryen	7180
+2-10	20	targaryen	Daenerys Targaryen	7937
+3-1	21	targaryen	Daenerys Targaryen	8482
+3-3	23	targaryen	Daenerys Targaryen	8892
+3-4	24	targaryen	Daenerys Targaryen	9252
+3-5	25	targaryen	Daenerys Targaryen	9435
+3-7	27	targaryen	Daenerys Targaryen	9761
+3-8	28	targaryen	Daenerys Targaryen	10234
+3-9	29	targaryen	Daenerys Targaryen	10417
+3-10	30	targaryen	Daenerys Targaryen	10697
+4-1	31	targaryen	Daenerys Targaryen	11045
+4-3	33	targaryen	Daenerys Targaryen	11479
+4-4	34	targaryen	Daenerys Targaryen	11617
+4-5	35	targaryen	Daenerys Targaryen	11836
+4-6	36	targaryen	Daenerys Targaryen	12147
+4-7	37	targaryen	Daenerys Targaryen	12479
+4-8	38	targaryen	Daenerys Targaryen	12737
+4-10	40	targaryen	Daenerys Targaryen	13187
+5-1	41	targaryen	Daenerys Targaryen	13570
+5-2	42	targaryen	Daenerys Targaryen	14177
+5-4	44	targaryen	Daenerys Targaryen	14309
+5-5	45	targaryen	Daenerys Targaryen	14759
+5-7	47	targaryen	Daenerys Targaryen	15142
+5-8	48	targaryen	Daenerys Targaryen	15747
+5-9	49	targaryen	Daenerys Targaryen	16720
+5-10	50	targaryen	Daenerys Targaryen	16954
+6-1	51	targaryen	Daenerys Targaryen	17272
+6-3	53	targaryen	Daenerys Targaryen	17496
+6-4	54	targaryen	Daenerys Targaryen	17953
+6-5	55	targaryen	Daenerys Targaryen	18145
+6-6	56	targaryen	Daenerys Targaryen	18350
+6-8	58	targaryen	Daenerys Targaryen	18362
+6-9	59	targaryen	Daenerys Targaryen	18983
+6-10	60	targaryen	Daenerys Targaryen	19427
+7-1	61	targaryen	Daenerys Targaryen	19761
+7-2	62	targaryen	Daenerys Targaryen	20499
+7-3	63	targaryen	Daenerys Targaryen	21453
+7-4	64	targaryen	Daenerys Targaryen	22178
+7-5	65	targaryen	Daenerys Targaryen	23056
+7-6	66	targaryen	Daenerys Targaryen	23974
+7-7	67	targaryen	Daenerys Targaryen	25200
+8-1	68	targaryen	Daenerys Targaryen	26035
+8-2	69	targaryen	Daenerys Targaryen	27158
+8-3	70	targaryen	Daenerys Targaryen	27778
+8-4	71	targaryen	Daenerys Targaryen	29583
+8-5	72	targaryen	Daenerys Targaryen	30642
+8-6	73	targaryen	Daenerys Targaryen	31694
+1-1	1	targaryen	Viserys Targaryen	716
+1-2	2	targaryen	Viserys Targaryen	902
+1-3	3	targaryen	Viserys Targaryen	1120
+1-4	4	targaryen	Viserys Targaryen	1564
+1-6	6	targaryen	Viserys Targaryen	2195
+1-1	1		Illyrio Mopatis	564
+1-5	5		Illyrio Mopatis	654
+1-1	1		Khal Drogo	565
+1-2	2		Khal Drogo	927
+1-3	3		Khal Drogo	1194
+1-4	4		Khal Drogo	1264
+1-6	6		Khal Drogo	1760
+1-7	7		Khal Drogo	2083
+1-8	8		Khal Drogo	2336
+1-9	9		Khal Drogo	2902
+1-10	10		Khal Drogo	3415
+2-10	20		Khal Drogo	3575
+1-1	1		Qotho	462
+1-6	6		Qotho	747
+1-7	7		Qotho	768
+1-8	8		Qotho	1021
+1-9	9		Qotho	1587
+1-1	1	stark	Benjen Stark	447
+1-2	2	stark	Benjen Stark	783
+1-3	3	stark	Benjen Stark	1232
+6-6	56	stark	Benjen Stark	1458
+6-10	60	stark	Benjen Stark	1547
+7-6	66	stark	Benjen Stark	1604
+1-1	1	mormont	Jorah Mormont	336
+1-2	2	mormont	Jorah Mormont	522
+1-3	3	mormont	Jorah Mormont	874
+1-4	4	mormont	Jorah Mormont	1066
+1-6	6	mormont	Jorah Mormont	1697
+1-7	7	mormont	Jorah Mormont	2225
+1-8	8	mormont	Jorah Mormont	2604
+1-9	9	mormont	Jorah Mormont	3069
+1-10	10	mormont	Jorah Mormont	3650
+2-1	11	mormont	Jorah Mormont	3835
+2-2	12	mormont	Jorah Mormont	4006
+2-4	14	mormont	Jorah Mormont	4398
+2-5	15	mormont	Jorah Mormont	4733
+2-7	17	mormont	Jorah Mormont	4994
+2-8	18	mormont	Jorah Mormont	5101
+2-10	20	mormont	Jorah Mormont	5344
+3-1	21	mormont	Jorah Mormont	5875
+3-3	23	mormont	Jorah Mormont	6268
+3-4	24	mormont	Jorah Mormont	6621
+3-5	25	mormont	Jorah Mormont	6795
+3-7	27	mormont	Jorah Mormont	7110
+3-8	28	mormont	Jorah Mormont	7365
+3-9	29	mormont	Jorah Mormont	7638
+3-10	30	mormont	Jorah Mormont	7905
+4-1	31	mormont	Jorah Mormont	8052
+4-3	33	mormont	Jorah Mormont	8427
+4-4	34	mormont	Jorah Mormont	8505
+4-5	35	mormont	Jorah Mormont	8724
+4-6	36	mormont	Jorah Mormont	9035
+4-7	37	mormont	Jorah Mormont	9231
+4-8	38	mormont	Jorah Mormont	9539
+5-3	43	mormont	Jorah Mormont	9641
+5-4	44	mormont	Jorah Mormont	9912
+5-5	45	mormont	Jorah Mormont	10378
+5-6	46	mormont	Jorah Mormont	10849
+5-7	47	mormont	Jorah Mormont	11296
+5-8	48	mormont	Jorah Mormont	11658
+5-9	49	mormont	Jorah Mormont	12284
+5-10	50	mormont	Jorah Mormont	12537
+6-1	51	mormont	Jorah Mormont	12708
+6-4	54	mormont	Jorah Mormont	13172
+6-5	55	mormont	Jorah Mormont	13364
+7-1	61	mormont	Jorah Mormont	13430
+7-2	62	mormont	Jorah Mormont	13794
+7-3	63	mormont	Jorah Mormont	13943
+7-5	65	mormont	Jorah Mormont	14626
+7-6	66	mormont	Jorah Mormont	16491
+7-7	67	mormont	Jorah Mormont	17913
+8-1	68	mormont	Jorah Mormont	18157
+8-2	69	mormont	Jorah Mormont	18886
+8-3	70	mormont	Jorah Mormont	19527
+8-4	71	mormont	Jorah Mormont	19653
+1-1	1	targaryen	Drogon	336
+1-2	2	targaryen	Drogon	625
+1-3	3	targaryen	Drogon	674
+1-6	6	targaryen	Drogon	897
+1-10	10	targaryen	Drogon	1268
+2-1	11	targaryen	Drogon	1453
+2-5	15	targaryen	Drogon	1573
+2-6	16	targaryen	Drogon	1593
+2-10	20	targaryen	Drogon	1844
+3-1	21	targaryen	Drogon	1894
+3-4	24	targaryen	Drogon	2065
+3-7	27	targaryen	Drogon	2298
+3-10	30	targaryen	Drogon	2343
+4-1	31	targaryen	Drogon	2413
+4-6	36	targaryen	Drogon	2477
+5-2	42	targaryen	Drogon	2540
+5-5	45	targaryen	Drogon	2566
+5-9	49	targaryen	Drogon	2748
+5-10	50	targaryen	Drogon	2865
+6-6	56	targaryen	Drogon	2987
+6-8	58	targaryen	Drogon	2999
+6-9	59	targaryen	Drogon	3149
+6-10	60	targaryen	Drogon	3260
+7-1	61	targaryen	Drogon	3310
+7-3	63	targaryen	Drogon	3346
+7-4	64	targaryen	Drogon	3705
+7-5	65	targaryen	Drogon	4171
+7-6	66	targaryen	Drogon	4496
+7-7	67	targaryen	Drogon	4568
+8-1	68	targaryen	Drogon	4814
+8-3	70	targaryen	Drogon	5309
+8-4	71	targaryen	Drogon	5581
+8-5	72	targaryen	Drogon	5998
+8-6	73	targaryen	Drogon	6517
+1-1	1	targaryen	Rhaegal	336
+1-2	2	targaryen	Rhaegal	625
+1-3	3	targaryen	Rhaegal	674
+1-6	6	targaryen	Rhaegal	897
+1-10	10	targaryen	Rhaegal	1268
+2-5	15	targaryen	Rhaegal	1350
+2-6	16	targaryen	Rhaegal	1370
+2-10	20	targaryen	Rhaegal	1621
+3-1	21	targaryen	Rhaegal	1646
+3-4	24	targaryen	Rhaegal	1664
+3-7	27	targaryen	Rhaegal	1886
+3-10	30	targaryen	Rhaegal	1928
+4-1	31	targaryen	Rhaegal	1998
+4-10	40	targaryen	Rhaegal	2170
+5-1	41	targaryen	Rhaegal	2266
+5-5	45	targaryen	Rhaegal	2361
+6-2	52	targaryen	Rhaegal	2513
+6-9	59	targaryen	Rhaegal	2611
+6-10	60	targaryen	Rhaegal	2722
+7-1	61	targaryen	Rhaegal	2772
+7-3	63	targaryen	Rhaegal	2845
+7-4	64	targaryen	Rhaegal	2857
+7-5	65	targaryen	Rhaegal	2884
+7-6	66	targaryen	Rhaegal	3196
+7-7	67	targaryen	Rhaegal	3268
+8-1	68	targaryen	Rhaegal	3530
+8-3	70	targaryen	Rhaegal	3846
+8-4	71	targaryen	Rhaegal	3942
+1-1	1	targaryen	Viserion	336
+1-2	2	targaryen	Viserion	625
+1-3	3	targaryen	Viserion	674
+1-6	6	targaryen	Viserion	897
+1-10	10	targaryen	Viserion	1268
+2-5	15	targaryen	Viserion	1350
+2-6	16	targaryen	Viserion	1370
+2-10	20	targaryen	Viserion	1621
+3-1	21	targaryen	Viserion	1646
+3-4	24	targaryen	Viserion	1664
+3-7	27	targaryen	Viserion	1886
+3-10	30	targaryen	Viserion	1928
+4-1	31	targaryen	Viserion	1998
+4-10	40	targaryen	Viserion	2170
+5-1	41	targaryen	Viserion	2266
+5-5	45	targaryen	Viserion	2361
+6-2	52	targaryen	Viserion	2513
+6-9	59	targaryen	Viserion	2611
+6-10	60	targaryen	Viserion	2722
+7-1	61	targaryen	Viserion	2772
+7-3	63	targaryen	Viserion	2845
+7-4	64	targaryen	Viserion	2857
+7-5	65	targaryen	Viserion	2884
+7-6	66	targaryen	Viserion	3188
+7-7	67	targaryen	Viserion	3287
+8-3	70	targaryen	Viserion	3560
+1-2	2		Doreah	402
+1-4	4		Doreah	776
+1-6	6		Doreah	1272
+1-7	7		Doreah	1527
+1-8	8		Doreah	1906
+1-9	9		Doreah	2371
+2-1	11		Doreah	2556
+2-2	12		Doreah	2727
+2-4	14		Doreah	2792
+2-5	15		Doreah	2940
+2-10	20		Doreah	3037
+1-2	2		Irri	299
+1-3	3		Irri	689
+1-4	4		Irri	770
+1-6	6		Irri	1354
+1-7	7		Irri	1609
+1-8	8		Irri	1988
+1-9	9		Irri	2453
+1-10	10		Irri	2550
+2-2	12		Irri	2721
+2-5	15		Irri	2831
+2-6	16		Irri	2875
+1-2	2		Jhiqui	299
+1-2	2		Rast	200
+1-3	3		Rast	539
+1-4	4		Rast	915
+1-7	7		Rast	1245
+1-8	8		Rast	1315
+1-9	9		Rast	1398
+3-1	21		Rast	1456
+3-2	22		Rast	1616
+3-4	24		Rast	1971
+4-4	34		Rast	2516
+4-5	35		Rast	2582
+1-2	2		Catspaw Assassin	192
+1-2	2		Ilyn Payne	360
+1-9	9		Ilyn Payne	690
+1-10	10		Ilyn Payne	901
+2-9	19		Ilyn Payne	1089
+6-6	56		Ilyn Payne	1096
+1-2	2		Mycah	194
+1-3	3		Royal Steward	55
+1-5	5		Royal Steward	73
+1-7	7		Royal Steward	316
+1-8	8		Royal Steward	685
+1-3	3		Lord Varys	346
+1-4	4		Lord Varys	490
+1-5	5		Lord Varys	1162
+1-7	7		Lord Varys	1523
+1-8	8		Lord Varys	2206
+1-9	9		Lord Varys	2777
+1-10	10		Lord Varys	2949
+2-1	11		Lord Varys	3088
+2-2	12		Lord Varys	3364
+2-3	13		Lord Varys	3516
+2-8	18		Lord Varys	3839
+2-9	19		Lord Varys	4011
+2-10	20		Lord Varys	4543
+3-3	23		Lord Varys	4787
+3-4	24		Lord Varys	5345
+3-6	26		Lord Varys	5489
+3-8	28		Lord Varys	5683
+3-10	30		Lord Varys	6076
+4-2	32		Lord Varys	6557
+4-5	35		Lord Varys	6660
+4-6	36		Lord Varys	7054
+4-8	38		Lord Varys	7326
+4-10	40		Lord Varys	7408
+5-1	41		Lord Varys	7774
+5-2	42		Lord Varys	7920
+5-3	43		Lord Varys	8197
+5-10	50		Lord Varys	8284
+6-1	51		Lord Varys	8497
+6-2	52		Lord Varys	8716
+6-3	53		Lord Varys	9010
+6-4	54		Lord Varys	9228
+6-5	55		Lord Varys	9571
+6-8	58		Lord Varys	9674
+6-10	60		Lord Varys	9708
+7-1	61		Lord Varys	9933
+7-2	62		Lord Varys	10618
+7-3	63		Lord Varys	10894
+7-4	64		Lord Varys	11056
+7-5	65		Lord Varys	11374
+7-7	67		Lord Varys	12780
+8-1	68		Lord Varys	13135
+8-2	69		Lord Varys	13638
+8-3	70		Lord Varys	13984
+8-4	71		Lord Varys	15591
+8-5	72		Lord Varys	16027
+1-3	3		Grand Maester Pycelle	223
+1-4	4		Grand Maester Pycelle	512
+1-5	5		Grand Maester Pycelle	966
+1-6	6		Grand Maester Pycelle	1211
+1-7	7		Grand Maester Pycelle	1603
+1-8	8		Grand Maester Pycelle	2104
+1-9	9		Grand Maester Pycelle	2434
+1-10	10		Grand Maester Pycelle	2638
+2-1	11		Grand Maester Pycelle	2777
+2-2	12		Grand Maester Pycelle	2903
+2-3	13		Grand Maester Pycelle	3110
+2-9	19		Grand Maester Pycelle	3203
+2-10	20		Grand Maester Pycelle	3576
+3-3	23		Grand Maester Pycelle	3820
+3-8	28		Grand Maester Pycelle	4024
+3-10	30		Grand Maester Pycelle	4224
+4-2	32		Grand Maester Pycelle	4750
+4-5	35		Grand Maester Pycelle	4853
+4-6	36		Grand Maester Pycelle	5123
+4-8	38		Grand Maester Pycelle	5397
+4-10	40		Grand Maester Pycelle	5470
+5-1	41		Grand Maester Pycelle	5485
+5-2	42		Grand Maester Pycelle	5663
+5-3	43		Grand Maester Pycelle	5783
+5-4	44		Grand Maester Pycelle	5877
+5-10	50		Grand Maester Pycelle	5947
+6-3	53		Grand Maester Pycelle	6091
+6-4	54		Grand Maester Pycelle	6156
+6-8	58		Grand Maester Pycelle	6319
+6-10	60		Grand Maester Pycelle	6459
+1-3	3	baratheon	Renly Baratheon	174
+1-4	4	baratheon	Renly Baratheon	567
+1-5	5	baratheon	Renly Baratheon	1471
+1-6	6	baratheon	Renly Baratheon	1584
+1-7	7	baratheon	Renly Baratheon	2117
+2-3	13	baratheon	Renly Baratheon	2738
+2-4	14	baratheon	Renly Baratheon	3039
+2-5	15	baratheon	Renly Baratheon	3391
+1-3	3		Petyr Baelish	467
+1-4	4		Petyr Baelish	968
+1-5	5		Petyr Baelish	1934
+1-6	6		Petyr Baelish	2179
+1-7	7		Petyr Baelish	2957
+1-8	8		Petyr Baelish	3458
+1-9	9		Petyr Baelish	3788
+1-10	10		Petyr Baelish	3914
+2-1	11		Petyr Baelish	4218
+2-2	12		Petyr Baelish	4608
+2-3	13		Petyr Baelish	4799
+2-4	14		Petyr Baelish	5248
+2-5	15		Petyr Baelish	5414
+2-6	16		Petyr Baelish	5592
+2-10	20		Petyr Baelish	5940
+3-1	21		Petyr Baelish	6098
+3-3	23		Petyr Baelish	6469
+3-5	25		Petyr Baelish	6638
+3-6	26		Petyr Baelish	6782
+4-3	33		Petyr Baelish	6918
+4-4	34		Petyr Baelish	7100
+4-5	35		Petyr Baelish	7502
+4-7	37		Petyr Baelish	7721
+4-8	38		Petyr Baelish	8365
+5-1	41		Petyr Baelish	8485
+5-2	42		Petyr Baelish	8744
+5-3	43		Petyr Baelish	9171
+5-4	44		Petyr Baelish	9441
+5-6	46		Petyr Baelish	9747
+5-7	47		Petyr Baelish	9886
+6-4	54		Petyr Baelish	10080
+6-5	55		Petyr Baelish	10334
+6-9	59		Petyr Baelish	10385
+6-10	60		Petyr Baelish	10828
+7-1	61		Petyr Baelish	11221
+7-2	62		Petyr Baelish	11578
+7-3	63		Petyr Baelish	11735
+7-4	64		Petyr Baelish	12027
+7-5	65		Petyr Baelish	12173
+7-6	66		Petyr Baelish	12290
+7-7	67		Petyr Baelish	12839
+1-3	3		Old Nan	182
+1-4	4		Old Nan	236
+1-3	3	mormont	Jeor Mormont	219
+1-7	7	mormont	Jeor Mormont	594
+1-8	8	mormont	Jeor Mormont	913
+1-9	9	mormont	Jeor Mormont	1048
+1-10	10	mormont	Jeor Mormont	1211
+2-1	11	mormont	Jeor Mormont	1482
+2-3	13	mormont	Jeor Mormont	1633
+2-5	15	mormont	Jeor Mormont	1852
+3-1	21	mormont	Jeor Mormont	1923
+3-2	22	mormont	Jeor Mormont	2032
+3-3	23	mormont	Jeor Mormont	2222
+3-4	24	mormont	Jeor Mormont	2473
+1-3	3		Alliser Thorne	96
+1-4	4		Alliser Thorne	744
+1-7	7		Alliser Thorne	1074
+1-8	8		Alliser Thorne	1142
+4-1	31		Alliser Thorne	1318
+4-3	33		Alliser Thorne	1489
+4-4	34		Alliser Thorne	1758
+4-7	37		Alliser Thorne	1910
+4-9	39		Alliser Thorne	2190
+5-1	41		Alliser Thorne	2379
+5-2	42		Alliser Thorne	2681
+5-3	43		Alliser Thorne	2967
+5-5	45		Alliser Thorne	3058
+5-7	47		Alliser Thorne	3295
+5-9	49		Alliser Thorne	3355
+5-10	50		Alliser Thorne	3487
+6-1	51		Alliser Thorne	3706
+6-2	52		Alliser Thorne	3885
+6-3	53		Alliser Thorne	4070
+1-3	3		Pypar	339
+1-4	4		Pypar	715
+1-7	7		Pypar	1151
+1-8	8		Pypar	1289
+1-9	9		Pypar	1372
+1-10	10		Pypar	1495
+3-10	30		Pypar	1536
+4-3	33		Pypar	1685
+4-4	34		Pypar	1839
+4-7	37		Pypar	1957
+4-8	38		Pypar	2068
+4-9	39		Pypar	2437
+4-10	40		Pypar	2475
+1-3	3		Grenn	339
+1-4	4		Grenn	715
+1-7	7		Grenn	1045
+1-8	8		Grenn	1183
+1-9	9		Grenn	1266
+1-10	10		Grenn	1389
+2-1	11		Grenn	1492
+2-2	12		Grenn	1581
+2-5	15		Grenn	1928
+2-8	18		Grenn	2071
+2-10	20		Grenn	2174
+3-1	21		Grenn	2232
+3-2	22		Grenn	2341
+3-3	23		Grenn	2494
+3-4	24		Grenn	2799
+4-3	33		Grenn	2882
+4-4	34		Grenn	3186
+4-5	35		Grenn	3436
+4-7	37		Grenn	3606
+4-8	38		Grenn	3717
+4-9	39		Grenn	4086
+4-10	40		Grenn	4186
+1-3	3		Barristan Selmy	272
+1-4	4		Barristan Selmy	521
+1-5	5		Barristan Selmy	852
+1-6	6		Barristan Selmy	965
+1-7	7		Barristan Selmy	1566
+1-8	8		Barristan Selmy	1935
+3-1	21		Barristan Selmy	2112
+3-3	23		Barristan Selmy	2505
+3-4	24		Barristan Selmy	2839
+3-5	25		Barristan Selmy	3013
+3-7	27		Barristan Selmy	3328
+3-8	28		Barristan Selmy	3583
+3-9	29		Barristan Selmy	3766
+3-10	30		Barristan Selmy	4033
+4-1	31		Barristan Selmy	4119
+4-3	33		Barristan Selmy	4536
+4-4	34		Barristan Selmy	4656
+4-5	35		Barristan Selmy	4777
+4-6	36		Barristan Selmy	5088
+4-8	38		Barristan Selmy	5418
+4-10	40		Barristan Selmy	5666
+5-1	41		Barristan Selmy	5797
+5-2	42		Barristan Selmy	6300
+5-4	44		Barristan Selmy	6485
+5-5	45		Barristan Selmy	6577
+1-3	3	lannister	Lancel Lannister	272
+1-5	5	lannister	Lancel Lannister	425
+1-6	6	lannister	Lancel Lannister	538
+1-10	10	lannister	Lancel Lannister	570
+2-4	14	lannister	Lancel Lannister	973
+2-5	15	lannister	Lancel Lannister	1071
+2-9	19	lannister	Lancel Lannister	1348
+5-1	41	lannister	Lancel Lannister	1472
+5-3	43	lannister	Lancel Lannister	1518
+5-4	44	lannister	Lancel Lannister	1562
+5-6	46	lannister	Lancel Lannister	1634
+5-7	47	lannister	Lancel Lannister	1674
+6-6	56	lannister	Lancel Lannister	1717
+6-8	58	lannister	Lancel Lannister	1838
+6-10	60	lannister	Lancel Lannister	2308
+1-3	3		Rakharo	352
+1-7	7		Rakharo	826
+1-8	8		Rakharo	1205
+1-9	9		Rakharo	1771
+1-10	10		Rakharo	2239
+2-1	11		Rakharo	2477
+2-2	12		Rakharo	2648
+1-3	3		Yoren	234
+1-4	4		Yoren	521
+1-5	5		Yoren	638
+1-9	9		Yoren	968
+1-10	10		Yoren	1221
+2-2	12		Yoren	1354
+2-3	13		Yoren	1786
+1-3	3	targaryen	Maester Aemon	123
+1-7	7	targaryen	Maester Aemon	453
+1-9	9	targaryen	Maester Aemon	673
+3-10	30	targaryen	Maester Aemon	840
+4-1	31	targaryen	Maester Aemon	1016
+4-3	33	targaryen	Maester Aemon	1095
+4-9	39	targaryen	Maester Aemon	1315
+4-10	40	targaryen	Maester Aemon	1415
+5-2	42	targaryen	Maester Aemon	1717
+5-5	45	targaryen	Maester Aemon	1855
+5-7	47	targaryen	Maester Aemon	2081
+1-3	3		Syrio Forel	212
+1-6	6		Syrio Forel	324
+1-8	8		Syrio Forel	493
+1-4	4		Three-Eyed Raven	49
+1-6	6		Three-Eyed Raven	84
+1-10	10		Three-Eyed Raven	112
+3-2	22		Three-Eyed Raven	190
+4-2	32		Three-Eyed Raven	224
+4-10	40		Three-Eyed Raven	306
+6-2	52		Three-Eyed Raven	500
+6-3	53		Three-Eyed Raven	893
+6-5	55		Three-Eyed Raven	1347
+1-4	4		Samwell Tarly	780
+1-7	7		Samwell Tarly	1441
+1-8	8		Samwell Tarly	1655
+1-9	9		Samwell Tarly	1738
+1-10	10		Samwell Tarly	1918
+2-1	11		Samwell Tarly	2021
+2-2	12		Samwell Tarly	2279
+2-3	13		Samwell Tarly	2482
+2-5	15		Samwell Tarly	2808
+2-8	18		Samwell Tarly	2951
+2-10	20		Samwell Tarly	3143
+3-1	21		Samwell Tarly	3323
+3-2	22		Samwell Tarly	3483
+3-3	23		Samwell Tarly	3691
+3-4	24		Samwell Tarly	4039
+3-6	26		Samwell Tarly	4238
+3-8	28		Samwell Tarly	4663
+3-9	29		Samwell Tarly	4761
+3-10	30		Samwell Tarly	5217
+4-1	31		Samwell Tarly	5305
+4-3	33		Samwell Tarly	5670
+4-4	34		Samwell Tarly	5759
+4-7	37		Samwell Tarly	5929
+4-8	38		Samwell Tarly	6040
+4-9	39		Samwell Tarly	7428
+4-10	40		Samwell Tarly	7490
+5-1	41		Samwell Tarly	7838
+5-2	42		Samwell Tarly	8333
+5-3	43		Samwell Tarly	8619
+5-4	44		Samwell Tarly	8712
+5-5	45		Samwell Tarly	9126
+5-7	47		Samwell Tarly	9724
+5-8	48		Samwell Tarly	9906
+5-9	49		Samwell Tarly	9980
+5-10	50		Samwell Tarly	10232
+6-3	53		Samwell Tarly	10461
+6-6	56		Samwell Tarly	11253
+6-10	60		Samwell Tarly	11500
+7-1	61		Samwell Tarly	12059
+7-2	62		Samwell Tarly	12479
+7-3	63		Samwell Tarly	12734
+7-5	65		Samwell Tarly	13099
+7-7	67		Samwell Tarly	13247
+8-1	68		Samwell Tarly	13674
+8-2	69		Samwell Tarly	14202
+8-3	70		Samwell Tarly	14578
+8-4	71		Samwell Tarly	15117
+8-6	73		Samwell Tarly	16118
+1-4	4		Janos Slynt	144
+1-7	7		Janos Slynt	367
+1-8	8		Janos Slynt	736
+2-1	11		Janos Slynt	1023
+2-2	12		Janos Slynt	1295
+4-1	31		Janos Slynt	1471
+4-3	33		Janos Slynt	1642
+4-4	34		Janos Slynt	1904
+4-7	37		Janos Slynt	2056
+4-9	39		Janos Slynt	2235
+4-10	40		Janos Slynt	2335
+5-1	41		Janos Slynt	2524
+5-2	42		Janos Slynt	2826
+5-3	43		Janos Slynt	3112
+1-4	4		Hugh of the Vale	282
+1-5	5		Hugh of the Vale	319
+1-4	4	baratheon	Gendry	117
+1-10	10	baratheon	Gendry	252
+2-1	11	baratheon	Gendry	281
+2-2	12	baratheon	Gendry	735
+2-3	13	baratheon	Gendry	1286
+2-4	14	baratheon	Gendry	1697
+2-5	15	baratheon	Gendry	1770
+2-8	18	baratheon	Gendry	1883
+2-10	20	baratheon	Gendry	1912
+3-2	22	baratheon	Gendry	2322
+3-3	23	baratheon	Gendry	2456
+3-4	24	baratheon	Gendry	2758
+3-5	25	baratheon	Gendry	3097
+3-6	26	baratheon	Gendry	3252
+3-7	27	baratheon	Gendry	3350
+3-8	28	baratheon	Gendry	3829
+3-10	30	baratheon	Gendry	4125
+7-5	65	baratheon	Gendry	4921
+7-6	66	baratheon	Gendry	5724
+8-1	68	baratheon	Gendry	5908
+8-2	69	baratheon	Gendry	6263
+8-3	70	baratheon	Gendry	6536
+8-4	71	baratheon	Gendry	6994
+8-6	73	baratheon	Gendry	7745
+1-4	4		Tobho Mott	117
+2-1	11		Tobho Mott	140
+1-4	4		Gregor Clegane	249
+1-5	5		Gregor Clegane	488
+2-4	14		Gregor Clegane	712
+2-7	17		Gregor Clegane	791
+2-8	18		Gregor Clegane	898
+4-7	37		Gregor Clegane	958
+4-8	38		Gregor Clegane	1253
+4-10	40		Gregor Clegane	1381
+5-3	43		Gregor Clegane	1434
+5-10	50		Gregor Clegane	1466
+6-1	51		Gregor Clegane	1518
+6-2	52		Gregor Clegane	1629
+6-3	53		Gregor Clegane	1859
+6-7	57		Gregor Clegane	1989
+6-8	58		Gregor Clegane	2360
+6-10	60		Gregor Clegane	2573
+7-1	61		Gregor Clegane	2863
+7-2	62		Gregor Clegane	2959
+7-3	63		Gregor Clegane	3392
+7-7	67		Gregor Clegane	4890
+8-1	68		Gregor Clegane	5084
+8-4	71		Gregor Clegane	5554
+8-5	72		Gregor Clegane	6026
+1-4	4		Marillion	184
+1-5	5		Marillion	382
+1-10	10		Marillion	547
+1-4	4		Bronn	184
+1-5	5		Bronn	452
+1-6	6		Bronn	1054
+1-8	8		Bronn	1579
+1-9	9		Bronn	2398
+2-1	11		Bronn	2620
+2-2	12		Bronn	2831
+2-3	13		Bronn	3033
+2-4	14		Bronn	3154
+2-5	15		Bronn	3530
+2-8	18		Bronn	3752
+2-9	19		Bronn	4107
+3-1	21		Bronn	4276
+3-3	23		Bronn	4559
+3-7	27		Bronn	4640
+3-8	28		Bronn	4825
+4-1	31		Bronn	5060
+4-2	32		Bronn	5224
+4-4	34		Bronn	5487
+4-7	37		Bronn	5755
+5-2	42		Bronn	5928
+5-4	44		Bronn	6461
+5-6	46		Bronn	6725
+5-7	47		Bronn	6949
+5-9	49		Bronn	7078
+5-10	50		Bronn	7141
+6-7	57		Bronn	7433
+6-8	58		Bronn	7545
+6-10	60		Bronn	7628
+7-3	63		Bronn	7647
+7-4	64		Bronn	8354
+7-5	65		Bronn	8500
+7-7	67		Bronn	8809
+8-1	68		Bronn	8973
+8-4	71		Bronn	9163
+8-6	73		Bronn	9413
+1-5	5	tyrell	Loras Tyrell	476
+2-3	13	tyrell	Loras Tyrell	849
+2-4	14	tyrell	Loras Tyrell	1078
+2-5	15	tyrell	Loras Tyrell	1227
+2-9	19	tyrell	Loras Tyrell	1264
+2-10	20	tyrell	Loras Tyrell	1537
+3-1	21	tyrell	Loras Tyrell	1689
+3-2	22	tyrell	Loras Tyrell	1754
+3-5	25	tyrell	Loras Tyrell	1840
+3-6	26	tyrell	Loras Tyrell	1934
+3-8	28	tyrell	Loras Tyrell	2239
+4-2	32	tyrell	Loras Tyrell	2628
+4-6	36	tyrell	Loras Tyrell	3375
+5-1	41	tyrell	Loras Tyrell	3571
+5-3	43	tyrell	Loras Tyrell	3604
+5-4	44	tyrell	Loras Tyrell	3637
+5-6	46	tyrell	Loras Tyrell	3905
+6-4	54	tyrell	Loras Tyrell	4016
+6-10	60	tyrell	Loras Tyrell	4354
+1-5	5		Vardis Egen	189
+1-6	6		Vardis Egen	791
+1-5	5	arryn	Lysa Arryn	119
+1-6	6	arryn	Lysa Arryn	721
+1-8	8	arryn	Lysa Arryn	835
+4-5	35	arryn	Lysa Arryn	1309
+4-7	37	arryn	Lysa Arryn	1552
+1-5	5		Robin Arryn	119
+1-6	6		Robin Arryn	721
+1-8	8		Robin Arryn	835
+4-5	35		Robin Arryn	989
+4-7	37		Robin Arryn	1115
+4-8	38		Robin Arryn	1182
+5-1	41		Robin Arryn	1256
+6-4	54		Robin Arryn	1469
+8-6	73		Robin Arryn	2220
+1-5	5		Mord	41
+1-6	6		Mord	493
+1-5	5		Mhaegen	56
+2-1	11		Mhaegen	181
+1-6	6		Osha	207
+1-7	7		Osha	429
+1-8	8		Osha	565
+1-10	10		Osha	699
+2-1	11		Osha	783
+2-5	15		Osha	936
+2-6	16		Osha	1497
+2-7	17		Osha	1558
+2-8	18		Osha	1624
+2-10	20		Osha	1863
+3-2	22		Osha	2136
+3-6	26		Osha	2317
+3-7	27		Osha	2555
+3-9	29		Osha	2970
+6-3	53		Osha	3046
+6-4	54		Osha	3248
+1-6	6		Stiv	207
+1-6	6		Wallen	207
+1-6	6		Dothraki Crone	211
+1-6	6		Rhaego	211
+1-10	10		Rhaego	324
+2-10	20		Rhaego	484
+1-6	6		Beric Dondarrion	245
+3-4	24		Beric Dondarrion	459
+3-5	25		Beric Dondarrion	840
+3-6	26		Beric Dondarrion	1185
+3-7	27		Beric Dondarrion	1291
+6-8	58		Beric Dondarrion	1573
+7-1	61		Beric Dondarrion	1955
+7-5	65		Beric Dondarrion	2158
+7-6	66		Beric Dondarrion	3977
+7-7	67		Beric Dondarrion	4067
+8-1	68		Beric Dondarrion	4291
+8-2	69		Beric Dondarrion	4628
+8-3	70		Beric Dondarrion	5095
+8-4	71		Beric Dondarrion	5171
+1-6	6		Joss	245
+5-6	46		Joss	344
+1-7	7	lannister	Tywin Lannister	283
+1-8	8	lannister	Tywin Lannister	481
+1-9	9	lannister	Tywin Lannister	688
+1-10	10	lannister	Tywin Lannister	882
+2-4	14	lannister	Tywin Lannister	977
+2-5	15	lannister	Tywin Lannister	1167
+2-6	16	lannister	Tywin Lannister	1603
+2-7	17	lannister	Tywin Lannister	1966
+2-8	18	lannister	Tywin Lannister	2078
+2-9	19	lannister	Tywin Lannister	2097
+2-10	20	lannister	Tywin Lannister	2160
+3-1	21	lannister	Tywin Lannister	2457
+3-3	23	lannister	Tywin Lannister	2701
+3-4	24	lannister	Tywin Lannister	2868
+3-5	25	lannister	Tywin Lannister	3086
+3-6	26	lannister	Tywin Lannister	3311
+3-7	27	lannister	Tywin Lannister	3519
+3-8	28	lannister	Tywin Lannister	3954
+3-10	30	lannister	Tywin Lannister	4378
+4-1	31	lannister	Tywin Lannister	4651
+4-2	32	lannister	Tywin Lannister	5674
+4-3	33	lannister	Tywin Lannister	6209
+4-5	35	lannister	Tywin Lannister	6580
+4-6	36	lannister	Tywin Lannister	7828
+4-8	38	lannister	Tywin Lannister	8128
+4-10	40	lannister	Tywin Lannister	8479
+5-1	41	lannister	Tywin Lannister	8615
+1-7	7		Armeca	304
+2-1	11		Armeca	329
+2-2	12		Armeca	384
+2-9	19		Armeca	629
+1-7	7		Little Bird	33
+4-8	38		Little Bird	78
+1-7	7		Wine Merchant	431
+1-7	7		Othell Yarwyck	458
+1-8	8		Othell Yarwyck	534
+4-1	31		Othell Yarwyck	710
+4-3	33		Othell Yarwyck	789
+4-7	37		Othell Yarwyck	907
+5-2	42		Othell Yarwyck	1209
+5-5	45		Othell Yarwyck	1300
+5-7	47		Othell Yarwyck	1435
+5-9	49		Othell Yarwyck	1500
+5-10	50		Othell Yarwyck	1615
+6-1	51		Othell Yarwyck	1834
+6-2	52		Othell Yarwyck	1916
+6-3	53		Othell Yarwyck	2101
+1-7	7		Jaremy Rykker	330
+1-7	7		Tomard	210
+1-7	7		Varly	20
+1-8	8		Vayon Poole	15
+1-8	8		Meryn Trant	523
+1-10	10		Meryn Trant	848
+2-1	11		Meryn Trant	1109
+2-4	14		Meryn Trant	1281
+2-6	16		Meryn Trant	1507
+3-1	21		Meryn Trant	1582
+4-1	31		Meryn Trant	1697
+4-2	32		Meryn Trant	1852
+4-3	33		Meryn Trant	1864
+4-6	36		Meryn Trant	1912
+5-1	41		Meryn Trant	1971
+5-2	42		Meryn Trant	2006
+5-3	43		Meryn Trant	2191
+5-4	44		Meryn Trant	2218
+5-9	49		Meryn Trant	2594
+5-10	50		Meryn Trant	2789
+1-8	8		Red Keep Stableboy	37
+1-8	8		Othor	162
+1-8	8		Jafer Flowers	76
+1-8	8		Shagga	442
+1-9	9		Shagga	490
+1-8	8		Mirri Maz Duur	379
+1-9	9		Mirri Maz Duur	844
+1-10	10		Mirri Maz Duur	1401
+1-8	8		Mago	379
+1-8	8		Greatjon Umber	333
+1-9	9		Greatjon Umber	665
+1-10	10		Greatjon Umber	801
+1-8	8		Timett	271
+1-9	9		Timett	319
+2-3	13		Timett	447
+1-8	8	lannister	Kevan Lannister	198
+1-9	9	lannister	Kevan Lannister	306
+1-10	10	lannister	Kevan Lannister	382
+2-8	18	lannister	Kevan Lannister	489
+5-1	41	lannister	Kevan Lannister	530
+5-2	42	lannister	Kevan Lannister	708
+5-10	50	lannister	Kevan Lannister	778
+6-3	53	lannister	Kevan Lannister	907
+6-4	54	lannister	Kevan Lannister	1063
+6-6	56	lannister	Kevan Lannister	1126
+6-8	58	lannister	Kevan Lannister	1289
+6-10	60	lannister	Kevan Lannister	1640
+1-8	8		Chella	198
+1-9	9		Chella	246
+1-8	8		Lannister Messenger	198
+1-8	8		Lannister Scout	135
+1-9	9	frey	Walder Frey	209
+3-9	29	frey	Walder Frey	1074
+3-10	30	frey	Walder Frey	1214
+6-6	56	frey	Walder Frey	1354
+6-10	60	frey	Walder Frey	1646
+7-1	61	frey	Walder Frey	1836
+1-9	9		Joyeuse Erenford	96
+3-9	29		Joyeuse Erenford	693
+1-9	9	frey	Stevron Frey	96
+1-9	9		Ryger Rivers	96
+1-9	9		Shae	648
+1-10	10		Shae	732
+2-1	11		Shae	831
+2-2	12		Shae	981
+2-3	13		Shae	1214
+2-6	16		Shae	1267
+2-7	17		Shae	1349
+2-8	18		Shae	1438
+2-9	19		Shae	1943
+2-10	20		Shae	2144
+3-1	21		Shae	2311
+3-2	22		Shae	2603
+3-6	26		Shae	2729
+3-7	27		Shae	2864
+3-8	28		Shae	2997
+3-10	30		Shae	3275
+4-1	31		Shae	3461
+4-2	32		Shae	3630
+4-6	36		Shae	4009
+4-10	40		Shae	4159
+1-9	9		King's Landing Baker	58
+1-9	9		Street Urchin	58
+1-10	10		Rickard Karstark	136
+2-7	17		Rickard Karstark	272
+2-8	18		Rickard Karstark	373
+3-1	21		Rickard Karstark	501
+3-2	22		Rickard Karstark	567
+3-5	25		Rickard Karstark	785
+1-10	10		Jonos Bracken	136
+1-10	10		Leo Lefford	76
+1-10	10		Addam Marbrand	76
+1-10	10		Hot Pie	135
+2-1	11		Hot Pie	164
+2-2	12		Hot Pie	252
+2-3	13		Hot Pie	454
+2-4	14		Hot Pie	786
+2-5	15		Hot Pie	859
+2-8	18		Hot Pie	972
+2-10	20		Hot Pie	1001
+3-2	22		Hot Pie	1411
+3-3	23		Hot Pie	1525
+4-7	37		Hot Pie	1736
+7-2	62		Hot Pie	1892
+1-10	10		Lommy Greenhands	135
+2-1	11		Lommy Greenhands	164
+2-2	12		Lommy Greenhands	252
+2-3	13		Lommy Greenhands	454
+2-1	11		Dontos Hollard	222
+2-9	19		Dontos Hollard	243
+4-1	31		Dontos Hollard	335
+4-2	32		Dontos Hollard	429
+4-3	33		Dontos Hollard	638
+2-1	11		Lord Portan	116
+2-1	11		Northern Lord	116
+2-1	11		Aggo	185
+2-1	11		Kovarro	185
+2-4	14		Kovarro	250
+2-5	15		Kovarro	295
+2-6	16		Kovarro	669
+2-7	17		Kovarro	832
+2-8	18		Kovarro	854
+2-10	20		Kovarro	1082
+2-1	11		Eddison Tollett	103
+2-2	12		Eddison Tollett	192
+2-5	15		Eddison Tollett	518
+2-8	18		Eddison Tollett	661
+2-10	20		Eddison Tollett	764
+3-1	21		Eddison Tollett	822
+3-2	22		Eddison Tollett	931
+3-3	23		Eddison Tollett	1084
+3-4	24		Eddison Tollett	1389
+4-3	33		Eddison Tollett	1472
+4-4	34		Eddison Tollett	1626
+4-5	35		Eddison Tollett	1847
+4-7	37		Eddison Tollett	2017
+4-8	38		Eddison Tollett	2128
+4-9	39		Eddison Tollett	2456
+4-10	40		Eddison Tollett	2564
+5-1	41		Eddison Tollett	2797
+5-2	42		Eddison Tollett	3030
+5-3	43		Eddison Tollett	3316
+5-4	44		Eddison Tollett	3349
+5-5	45		Eddison Tollett	3490
+5-7	47		Eddison Tollett	3625
+5-8	48		Eddison Tollett	4481
+5-9	49		Eddison Tollett	4639
+6-1	51		Eddison Tollett	4812
+6-2	52		Eddison Tollett	5225
+6-3	53		Eddison Tollett	5606
+6-4	54		Eddison Tollett	5947
+6-5	55		Eddison Tollett	6155
+7-1	61		Eddison Tollett	6242
+8-1	68		Eddison Tollett	6350
+8-2	69		Eddison Tollett	6512
+8-3	70		Eddison Tollett	6593
+8-4	71		Eddison Tollett	6667
+2-1	11		Craster	239
+2-2	12		Craster	371
+2-3	13		Craster	408
+3-3	23		Craster	561
+3-4	24		Craster	751
+2-1	11		Gilly	239
+2-2	12		Gilly	408
+2-3	13		Gilly	497
+3-3	23		Gilly	532
+3-4	24		Gilly	623
+3-6	26		Gilly	822
+3-8	28		Gilly	1213
+3-9	29		Gilly	1311
+3-10	30		Gilly	1726
+4-3	33		Gilly	2048
+4-8	38		Gilly	2206
+4-9	39		Gilly	2446
+5-1	41		Gilly	2672
+5-2	42		Gilly	2824
+5-5	45		Gilly	2977
+5-7	47		Gilly	3549
+5-8	48		Gilly	3628
+5-10	50		Gilly	3657
+6-3	53		Gilly	3886
+6-6	56		Gilly	4684
+6-10	60		Gilly	4857
+7-1	61		Gilly	4937
+7-5	65		Gilly	5087
+7-7	67		Gilly	5094
+8-2	69		Gilly	5209
+8-3	70		Gilly	5534
+8-4	71		Gilly	5830
+2-1	11		Melisandre	373
+2-2	12		Melisandre	607
+2-4	14		Melisandre	1024
+2-10	20		Melisandre	1238
+3-1	21		Melisandre	1400
+3-3	23		Melisandre	1514
+3-6	26		Melisandre	1936
+3-7	27		Melisandre	2034
+3-8	28		Melisandre	2553
+3-10	30		Melisandre	2875
+4-2	32		Melisandre	3131
+4-7	37		Melisandre	3368
+4-10	40		Melisandre	3430
+5-1	41		Melisandre	3861
+5-4	44		Melisandre	4113
+5-5	45		Melisandre	4163
+5-7	47		Melisandre	4375
+5-9	49		Melisandre	4617
+5-10	50		Melisandre	4762
+6-1	51		Melisandre	4986
+6-2	52		Melisandre	5421
+6-3	53		Melisandre	5687
+6-4	54		Melisandre	5786
+6-5	55		Melisandre	5993
+6-6	56		Melisandre	6000
+6-9	59		Melisandre	6145
+6-10	60		Melisandre	6414
+7-2	62		Melisandre	6609
+7-3	63		Melisandre	6720
+8-3	70		Melisandre	7223
+2-1	11		Maester Cressen	432
+2-1	11		Davos Seaworth	432
+2-2	12		Davos Seaworth	765
+2-4	14		Davos Seaworth	1295
+2-5	15		Davos Seaworth	1458
+2-8	18		Davos Seaworth	1634
+2-9	19		Davos Seaworth	1879
+3-1	21		Davos Seaworth	2341
+3-5	25		Davos Seaworth	2433
+3-8	28		Davos Seaworth	2787
+3-10	30		Davos Seaworth	3515
+4-2	32		Davos Seaworth	3607
+4-3	33		Davos Seaworth	3844
+4-6	36		Davos Seaworth	4318
+4-10	40		Davos Seaworth	4536
+5-1	41		Davos Seaworth	4880
+5-2	42		Davos Seaworth	5021
+5-3	43		Davos Seaworth	5281
+5-5	45		Davos Seaworth	5493
+5-7	47		Davos Seaworth	5619
+5-9	49		Davos Seaworth	5919
+5-10	50		Davos Seaworth	5988
+6-1	51		Davos Seaworth	6401
+6-2	52		Davos Seaworth	7030
+6-3	53		Davos Seaworth	7555
+6-4	54		Davos Seaworth	7654
+6-5	55		Davos Seaworth	7805
+6-7	57		Davos Seaworth	8550
+6-9	59		Davos Seaworth	9592
+6-10	60		Davos Seaworth	10089
+7-1	61		Davos Seaworth	10389
+7-2	62		Davos Seaworth	10719
+7-3	63		Davos Seaworth	11567
+7-4	64		Davos Seaworth	12017
+7-5	65		Davos Seaworth	13007
+7-6	66		Davos Seaworth	13060
+7-7	67		Davos Seaworth	14506
+8-1	68		Davos Seaworth	14811
+8-2	69		Davos Seaworth	15817
+8-3	70		Davos Seaworth	16067
+8-4	71		Davos Seaworth	16766
+8-5	72		Davos Seaworth	17012
+8-6	73		Davos Seaworth	18185
+2-1	11		Matthos Seaworth	373
+2-2	12		Matthos Seaworth	706
+2-8	18		Matthos Seaworth	731
+2-9	19		Matthos Seaworth	929
+2-1	11	baratheon	Stannis Baratheon	373
+2-2	12	baratheon	Stannis Baratheon	607
+2-4	14	baratheon	Stannis Baratheon	913
+2-5	15	baratheon	Stannis Baratheon	1076
+2-8	18	baratheon	Stannis Baratheon	1252
+2-9	19	baratheon	Stannis Baratheon	1418
+2-10	20	baratheon	Stannis Baratheon	1632
+3-1	21	baratheon	Stannis Baratheon	1794
+3-3	23	baratheon	Stannis Baratheon	1908
+3-5	25	baratheon	Stannis Baratheon	2180
+3-8	28	baratheon	Stannis Baratheon	2571
+3-10	30	baratheon	Stannis Baratheon	2893
+4-2	32	baratheon	Stannis Baratheon	3072
+4-3	33	baratheon	Stannis Baratheon	3182
+4-6	36	baratheon	Stannis Baratheon	3537
+4-10	40	baratheon	Stannis Baratheon	3771
+5-1	41	baratheon	Stannis Baratheon	4150
+5-2	42	baratheon	Stannis Baratheon	4291
+5-3	43	baratheon	Stannis Baratheon	4561
+5-4	44	baratheon	Stannis Baratheon	4840
+5-5	45	baratheon	Stannis Baratheon	5175
+5-7	47	baratheon	Stannis Baratheon	5387
+5-9	49	baratheon	Stannis Baratheon	5910
+5-10	50	baratheon	Stannis Baratheon	6345
+2-1	11	baratheon	Selyse Baratheon	189
+3-5	25	baratheon	Selyse Baratheon	391
+4-2	32	baratheon	Selyse Baratheon	561
+4-7	37	baratheon	Selyse Baratheon	798
+4-10	40	baratheon	Selyse Baratheon	860
+5-1	41	baratheon	Selyse Baratheon	965
+5-2	42	baratheon	Selyse Baratheon	1007
+5-4	44	baratheon	Selyse Baratheon	1056
+5-5	45	baratheon	Selyse Baratheon	1106
+5-9	49	baratheon	Selyse Baratheon	1317
+5-10	50	baratheon	Selyse Baratheon	1383
+2-1	11	lannister	Alton Lannister	92
+2-2	12	lannister	Alton Lannister	141
+2-7	17	lannister	Alton Lannister	600
+2-1	11		Daisy	150
+2-3	13		Daisy	278
+2-4	14		Daisy	474
+2-1	11		Barra	125
+2-2	12		Jaqen H'ghar	85
+2-3	13		Jaqen H'ghar	204
+2-5	15		Jaqen H'ghar	434
+2-6	16		Jaqen H'ghar	463
+2-8	18		Jaqen H'ghar	585
+2-10	20		Jaqen H'ghar	758
+5-2	42		Jaqen H'ghar	825
+5-3	43		Jaqen H'ghar	1077
+5-6	46		Jaqen H'ghar	1400
+5-8	48		Jaqen H'ghar	1556
+5-9	49		Jaqen H'ghar	1610
+5-10	50		Jaqen H'ghar	1743
+6-2	52		Jaqen H'ghar	1808
+6-3	53		Jaqen H'ghar	1941
+6-5	55		Jaqen H'ghar	2121
+6-6	56		Jaqen H'ghar	2164
+6-8	58		Jaqen H'ghar	2292
+2-2	12		Rorge	85
+2-8	18		Rorge	127
+4-7	37		Rorge	182
+2-2	12		Biter	85
+2-8	18		Biter	127
+4-7	37		Biter	134
+2-2	12		Goldcloak	133
+2-2	12		Captain's Daughter	119
+2-2	12		Brothel Customer	55
+5-4	44		Brothel Customer	140
+2-2	12		Podrick Payne	15
+2-8	18		Podrick Payne	88
+2-9	19		Podrick Payne	575
+2-10	20		Podrick Payne	738
+3-1	21		Podrick Payne	865
+3-3	23		Podrick Payne	1109
+3-5	25		Podrick Payne	1151
+3-8	28		Podrick Payne	1212
+3-10	30		Podrick Payne	1249
+4-1	31		Podrick Payne	1425
+4-2	32		Podrick Payne	1992
+4-3	33		Podrick Payne	2306
+4-4	34		Podrick Payne	2437
+4-5	35		Podrick Payne	2686
+4-7	37		Podrick Payne	3001
+4-10	40		Podrick Payne	3305
+5-1	41		Podrick Payne	3397
+5-2	42		Podrick Payne	3676
+5-3	43		Podrick Payne	4015
+5-5	45		Podrick Payne	4151
+5-10	50		Podrick Payne	4217
+6-1	51		Podrick Payne	4417
+6-2	52		Podrick Payne	4553
+6-4	54		Podrick Payne	4859
+6-5	55		Podrick Payne	4880
+6-8	58		Podrick Payne	5268
+7-1	61		Podrick Payne	5609
+7-4	64		Podrick Payne	5852
+7-7	67		Podrick Payne	6068
+8-1	68		Podrick Payne	6159
+8-2	69		Podrick Payne	6653
+8-3	70		Podrick Payne	6918
+8-4	71		Podrick Payne	7436
+8-6	73		Podrick Payne	7470
+2-2	12		Lordsport Dockhand	79
+2-2	12	greyjoy	Yara Greyjoy	188
+2-3	13	greyjoy	Yara Greyjoy	527
+2-5	15	greyjoy	Yara Greyjoy	648
+2-8	18	greyjoy	Yara Greyjoy	886
+3-10	30	greyjoy	Yara Greyjoy	1075
+4-6	36	greyjoy	Yara Greyjoy	1336
+6-2	52	greyjoy	Yara Greyjoy	1676
+6-4	54	greyjoy	Yara Greyjoy	1829
+6-5	55	greyjoy	Yara Greyjoy	2195
+6-7	57	greyjoy	Yara Greyjoy	2392
+6-9	59	greyjoy	Yara Greyjoy	2636
+6-10	60	greyjoy	Yara Greyjoy	2729
+7-2	62	greyjoy	Yara Greyjoy	3247
+7-3	63	greyjoy	Yara Greyjoy	3485
+8-1	68	greyjoy	Yara Greyjoy	3684
+8-6	73	greyjoy	Yara Greyjoy	4435
+2-2	12	greyjoy	Balon Greyjoy	251
+2-3	13	greyjoy	Balon Greyjoy	567
+3-10	30	greyjoy	Balon Greyjoy	730
+6-2	52	greyjoy	Balon Greyjoy	1070
+2-2	12		Salladhor Saan	192
+3-1	21		Salladhor Saan	365
+4-6	36		Salladhor Saan	510
+2-3	13	tyrell	Margaery Tyrell	441
+2-4	14	tyrell	Margaery Tyrell	554
+2-5	15	tyrell	Margaery Tyrell	703
+2-10	20	tyrell	Margaery Tyrell	976
+3-1	21	tyrell	Margaery Tyrell	1272
+3-2	22	tyrell	Margaery Tyrell	1860
+3-4	24	tyrell	Margaery Tyrell	2228
+3-5	25	tyrell	Margaery Tyrell	2274
+3-7	27	tyrell	Margaery Tyrell	2463
+3-8	28	tyrell	Margaery Tyrell	2937
+4-1	31	tyrell	Margaery Tyrell	3063
+4-2	32	tyrell	Margaery Tyrell	3977
+4-3	33	tyrell	Margaery Tyrell	4076
+4-4	34	tyrell	Margaery Tyrell	4398
+4-5	35	tyrell	Margaery Tyrell	4683
+4-6	36	tyrell	Margaery Tyrell	5430
+5-1	41	tyrell	Margaery Tyrell	5631
+5-3	43	tyrell	Margaery Tyrell	5954
+5-4	44	tyrell	Margaery Tyrell	6071
+5-6	46	tyrell	Margaery Tyrell	6372
+5-7	47	tyrell	Margaery Tyrell	6521
+6-1	51	tyrell	Margaery Tyrell	6645
+6-4	54	tyrell	Margaery Tyrell	7041
+6-6	56	tyrell	Margaery Tyrell	7497
+6-7	57	tyrell	Margaery Tyrell	7803
+6-10	60	tyrell	Margaery Tyrell	8298
+2-3	13		Brienne of Tarth	329
+2-4	14		Brienne of Tarth	630
+2-5	15		Brienne of Tarth	1021
+2-6	16		Brienne of Tarth	1101
+2-7	17		Brienne of Tarth	1428
+2-8	18		Brienne of Tarth	1571
+2-10	20		Brienne of Tarth	1869
+3-2	22		Brienne of Tarth	2340
+3-3	23		Brienne of Tarth	2590
+3-4	24		Brienne of Tarth	2890
+3-5	25		Brienne of Tarth	3404
+3-6	26		Brienne of Tarth	3542
+3-7	27		Brienne of Tarth	3842
+3-10	30		Brienne of Tarth	3878
+4-1	31		Brienne of Tarth	4015
+4-2	32		Brienne of Tarth	4130
+4-4	34		Brienne of Tarth	4396
+4-5	35		Brienne of Tarth	4645
+4-7	37		Brienne of Tarth	4960
+4-10	40		Brienne of Tarth	5414
+5-1	41		Brienne of Tarth	5506
+5-2	42		Brienne of Tarth	5964
+5-3	43		Brienne of Tarth	6303
+5-5	45		Brienne of Tarth	6429
+5-7	47		Brienne of Tarth	6437
+5-10	50		Brienne of Tarth	6577
+6-1	51		Brienne of Tarth	6777
+6-2	52		Brienne of Tarth	6953
+6-4	54		Brienne of Tarth	7309
+6-5	55		Brienne of Tarth	7841
+6-8	58		Brienne of Tarth	8326
+7-1	61		Brienne of Tarth	8716
+7-2	62		Brienne of Tarth	8953
+7-4	64		Brienne of Tarth	9196
+7-6	66		Brienne of Tarth	9301
+7-7	67		Brienne of Tarth	10639
+8-1	68		Brienne of Tarth	10870
+8-2	69		Brienne of Tarth	11930
+8-3	70		Brienne of Tarth	12256
+8-4	71		Brienne of Tarth	13409
+8-6	73		Brienne of Tarth	14456
+2-3	13		Colen of Greenpools	248
+2-3	13		Gerard	55
+2-3	13		Drowned Priest	81
+2-3	13		Amory Lorch	142
+2-4	14		Amory Lorch	237
+2-6	16		Amory Lorch	406
+2-3	13		Polliver	211
+2-4	14		Polliver	232
+4-1	31		Polliver	711
+2-4	14		Rennick	173
+2-4	14		Lannister Guard	236
+8-1	68		Lannister Guard	240
+2-4	14	bolton	Roose Bolton	95
+2-6	16	bolton	Roose Bolton	210
+2-7	17	bolton	Roose Bolton	295
+2-8	18	bolton	Roose Bolton	364
+3-1	21	bolton	Roose Bolton	527
+3-2	22	bolton	Roose Bolton	550
+3-5	25	bolton	Roose Bolton	662
+3-6	26	bolton	Roose Bolton	800
+3-7	27	bolton	Roose Bolton	848
+3-9	29	bolton	Roose Bolton	1319
+3-10	30	bolton	Roose Bolton	1477
+4-2	32	bolton	Roose Bolton	1830
+4-8	38	bolton	Roose Bolton	2009
+5-3	43	bolton	Roose Bolton	2334
+5-5	45	bolton	Roose Bolton	2795
+5-6	46	bolton	Roose Bolton	2910
+5-8	48	bolton	Roose Bolton	2976
+6-1	51	bolton	Roose Bolton	3061
+6-2	52	bolton	Roose Bolton	3286
+2-4	14		Talisa Maegyr	157
+2-6	16		Talisa Maegyr	300
+2-7	17		Talisa Maegyr	402
+2-8	18		Talisa Maegyr	928
+2-10	20		Talisa Maegyr	979
+3-1	21		Talisa Maegyr	1084
+3-2	22		Talisa Maegyr	1413
+3-3	23		Talisa Maegyr	1591
+3-5	25		Talisa Maegyr	1994
+3-7	27		Talisa Maegyr	2302
+3-9	29		Talisa Maegyr	3197
+2-4	14		Wounded Lannister Soldier	50
+2-4	14		Old Woman Prisoner	82
+2-4	14		Tortured Prisoner	208
+2-4	14		The Tickler	222
+2-5	15		The Tickler	295
+2-4	14		Spice King	327
+2-6	16		Spice King	567
+2-7	17		Spice King	702
+2-4	14		Xaro Xhoan Daxos	327
+2-5	15		Xaro Xhoan Daxos	581
+2-6	16		Xaro Xhoan Daxos	955
+2-7	17		Xaro Xhoan Daxos	1145
+2-10	20		Xaro Xhoan Daxos	1242
+2-4	14		Pyat Pree	327
+2-5	15		Pyat Pree	408
+2-7	17		Pyat Pree	571
+2-10	20		Pyat Pree	707
+2-4	14		Silk King	327
+2-7	17		Silk King	462
+2-5	15		Protestor	57
+2-5	15		Black Lorren	115
+2-6	16		Black Lorren	331
+2-7	17		Black Lorren	391
+2-10	20		Black Lorren	516
+2-5	15		Dagmer Cleftjaw	194
+2-6	16		Dagmer Cleftjaw	594
+2-7	17		Dagmer Cleftjaw	880
+2-8	18		Dagmer Cleftjaw	955
+2-10	20		Dagmer Cleftjaw	1080
+2-5	15		Reginald Lannister	190
+2-5	15		Hallyne	181
+2-9	19		Hallyne	219
+2-5	15		Qartheen Woman	28
+2-5	15		Quaithe	47
+2-7	17		Quaithe	133
+2-5	15		Winterfell Shepherd	56
+2-7	17		Winterfell Shepherd	155
+2-5	15		Qhorin Halfhand	166
+2-6	16		Qhorin Halfhand	525
+2-8	18		Qhorin Halfhand	673
+2-10	20		Qhorin Halfhand	857
+2-6	16		Farlen	92
+2-6	16		Ygritte	545
+2-7	17		Ygritte	1008
+2-8	18		Ygritte	1133
+2-10	20		Ygritte	1357
+3-1	21		Ygritte	1621
+3-2	22		Ygritte	1698
+3-3	23		Ygritte	1834
+3-5	25		Ygritte	2213
+3-6	26		Ygritte	2858
+3-7	27		Ygritte	3275
+3-9	29		Ygritte	3562
+3-10	30		Ygritte	3668
+4-1	31		Ygritte	3873
+4-3	33		Ygritte	3944
+4-8	38		Ygritte	4040
+4-9	39		Ygritte	4645
+4-10	40		Ygritte	4718
+2-6	16		High Septon	147
+3-8	28		High Septon	332
+4-2	32		High Septon	405
+4-3	33		High Septon	450
+4-5	35		High Septon	509
+5-1	41		High Septon	568
+5-3	43		High Septon	779
+7-7	67		High Septon	809
+2-6	16		King's Landing Rioter #1	65
+2-7	17		King's Landing Rioter #1	77
+2-6	16		King's Landing Rioter #2	65
+2-7	17		King's Landing Rioter #2	77
+2-6	16		King's Landing Rioter #3	65
+2-7	17		King's Landing Rioter #3	77
+2-6	16		Quent	36
+2-6	16		Drennan	41
+2-7	17		Drennan	101
+2-7	17		Torrhen Karstark	459
+2-7	17		Handmaid	70
+3-6	26		Handmaid	74
+4-1	31		Handmaid	109
+6-1	51		Handmaid	121
+6-10	60		Handmaid	235
+2-7	17		Jacks	112
+2-8	18		Rattleshirt	114
+2-10	20		Rattleshirt	298
+3-1	21		Rattleshirt	509
+5-8	48		Rattleshirt	603
+2-8	18		Stark Messenger	18
+2-8	18		Mandon Moore	57
+2-9	19		Mandon Moore	268
+2-9	19		Singing Lannister Soldier	329
+2-9	19		Captain of the Archers	122
+2-10	20		Soldier Tom	203
+2-10	20		Stark Soldier	203
+2-10	20		Septon	51
+3-9	29		Septon	208
+2-10	20		Jaqen's Disguise	24
+3-1	21		Man of the Nightswatch	25
+3-1	21		Dongo the Giant	53
+4-9	39		Dongo the Giant	219
+4-10	40		Dongo the Giant	250
+3-1	21		Tormund Giantsbane	288
+3-2	22		Tormund Giantsbane	365
+3-3	23		Tormund Giantsbane	501
+3-5	25		Tormund Giantsbane	633
+3-6	26		Tormund Giantsbane	1036
+3-7	27		Tormund Giantsbane	1099
+3-9	29		Tormund Giantsbane	1379
+4-1	31		Tormund Giantsbane	1584
+4-3	33		Tormund Giantsbane	1641
+4-8	38		Tormund Giantsbane	1720
+4-9	39		Tormund Giantsbane	2272
+4-10	40		Tormund Giantsbane	2377
+5-1	41		Tormund Giantsbane	2635
+5-5	45		Tormund Giantsbane	2867
+5-7	47		Tormund Giantsbane	3002
+5-8	48		Tormund Giantsbane	4191
+5-9	49		Tormund Giantsbane	4273
+6-2	52		Tormund Giantsbane	4663
+6-3	53		Tormund Giantsbane	4985
+6-4	54		Tormund Giantsbane	5291
+6-5	55		Tormund Giantsbane	5531
+6-7	57		Tormund Giantsbane	5714
+6-9	59		Tormund Giantsbane	6963
+6-10	60		Tormund Giantsbane	7242
+7-1	61		Tormund Giantsbane	7583
+7-5	65		Tormund Giantsbane	7841
+7-6	66		Tormund Giantsbane	9669
+7-7	67		Tormund Giantsbane	9759
+8-1	68		Tormund Giantsbane	9983
+8-2	69		Tormund Giantsbane	10640
+8-3	70		Tormund Giantsbane	10957
+8-4	71		Tormund Giantsbane	11500
+8-6	73		Tormund Giantsbane	11673
+3-1	21		Mance Rayder	288
+3-2	22		Mance Rayder	431
+3-3	23		Mance Rayder	567
+4-10	40		Mance Rayder	1145
+5-1	41		Mance Rayder	1695
+3-1	21		Mirelle	62
+3-1	21		Boat Commander	41
+3-1	21		Qyburn	105
+3-5	25		Qyburn	204
+3-7	27		Qyburn	659
+3-10	30		Qyburn	695
+4-1	31		Qyburn	760
+4-10	40		Qyburn	888
+5-2	42		Qyburn	1101
+5-3	43		Qyburn	1252
+5-4	44		Qyburn	1346
+5-8	48		Qyburn	1513
+5-10	50		Qyburn	1583
+6-3	53		Qyburn	1747
+6-8	58		Qyburn	2099
+6-10	60		Qyburn	2384
+7-1	61		Qyburn	2621
+7-2	62		Qyburn	2826
+7-3	63		Qyburn	3259
+7-5	65		Qyburn	3286
+7-7	67		Qyburn	4225
+8-1	68		Qyburn	4543
+8-4	71		Qyburn	5010
+8-5	72		Qyburn	5243
+3-1	21		Margaery's Handmaiden	122
+3-1	21		Orphan Kid	77
+3-1	21		Kraznys mo Nakloz	245
+3-3	23		Kraznys mo Nakloz	421
+3-4	24		Kraznys mo Nakloz	653
+3-1	21		Missandei	245
+3-3	23		Missandei	486
+3-4	24		Missandei	808
+3-5	25		Missandei	911
+3-7	27		Missandei	1136
+3-8	28		Missandei	1543
+3-9	29		Missandei	1613
+3-10	30		Missandei	1880
+4-1	31		Missandei	2082
+4-3	33		Missandei	2499
+4-4	34		Missandei	2650
+4-5	35		Missandei	2771
+4-6	36		Missandei	3082
+4-8	38		Missandei	3556
+4-10	40		Missandei	3822
+5-1	41		Missandei	4028
+5-2	42		Missandei	4454
+5-4	44		Missandei	4492
+5-5	45		Missandei	4716
+5-8	48		Missandei	5006
+5-9	49		Missandei	5950
+5-10	50		Missandei	6170
+6-2	52		Missandei	6309
+6-3	53		Missandei	6512
+6-4	54		Missandei	6936
+6-5	55		Missandei	7005
+6-8	58		Missandei	7338
+6-9	59		Missandei	7599
+6-10	60		Missandei	7619
+7-1	61		Missandei	7844
+7-2	62		Missandei	8809
+7-3	63		Missandei	9772
+7-4	64		Missandei	10237
+7-7	67		Missandei	11659
+8-1	68		Missandei	11739
+8-2	69		Missandei	12316
+8-3	70		Missandei	12641
+8-4	71		Missandei	13697
+3-1	21		Unsullied	245
+3-1	21		Warlock	108
+3-2	22		Jojen Reed	238
+3-4	24		Jojen Reed	301
+3-6	26		Jojen Reed	482
+3-7	27		Jojen Reed	720
+3-9	29		Jojen Reed	1149
+3-10	30		Jojen Reed	1563
+4-2	32		Jojen Reed	1710
+4-4	34		Jojen Reed	1986
+4-5	35		Jojen Reed	2381
+4-10	40		Jojen Reed	2701
+3-2	22		Master Torturer	125
+3-3	23		Master Torturer	342
+3-2	22		Riverlands Traveller	119
+3-2	22		King's Landing Tailor	41
+3-2	22	tyrell	Olenna Tyrell	276
+3-4	24	tyrell	Olenna Tyrell	679
+3-5	25	tyrell	Olenna Tyrell	822
+3-6	26	tyrell	Olenna Tyrell	1047
+3-8	28	tyrell	Olenna Tyrell	1300
+4-1	31	tyrell	Olenna Tyrell	1390
+4-2	32	tyrell	Olenna Tyrell	2239
+4-3	33	tyrell	Olenna Tyrell	2338
+4-4	34	tyrell	Olenna Tyrell	2482
+5-6	46	tyrell	Olenna Tyrell	2937
+5-7	47	tyrell	Olenna Tyrell	3261
+6-3	53	tyrell	Olenna Tyrell	3390
+6-4	54	tyrell	Olenna Tyrell	3546
+6-6	56	tyrell	Olenna Tyrell	3768
+6-7	57	tyrell	Olenna Tyrell	4050
+6-10	60	tyrell	Olenna Tyrell	4147
+7-2	62	tyrell	Olenna Tyrell	4401
+7-3	63	tyrell	Olenna Tyrell	4755
+3-2	22		Tyrell Servant	29
+3-2	22		Orell	77
+3-3	23		Orell	213
+3-5	25		Orell	345
+3-6	26		Orell	625
+3-7	27		Orell	757
+3-9	29		Orell	1050
+3-2	22		Meera Reed	171
+3-6	26		Meera Reed	352
+3-7	27		Meera Reed	590
+3-9	29		Meera Reed	996
+3-10	30		Meera Reed	1410
+4-2	32		Meera Reed	1557
+4-4	34		Meera Reed	1833
+4-5	35		Meera Reed	2202
+4-10	40		Meera Reed	2715
+6-2	52		Meera Reed	2830
+6-5	55		Meera Reed	3288
+6-6	56		Meera Reed	3634
+6-10	60		Meera Reed	3766
+7-1	61		Meera Reed	3855
+7-3	63		Meera Reed	3889
+7-4	64		Meera Reed	4015
+3-2	22		Thoros of Myr	353
+3-3	23		Thoros of Myr	413
+3-4	24		Thoros of Myr	715
+3-5	25		Thoros of Myr	1148
+3-6	26		Thoros of Myr	1654
+3-7	27		Thoros of Myr	1758
+6-8	58		Thoros of Myr	2040
+7-1	61		Thoros of Myr	2518
+7-5	65		Thoros of Myr	2721
+7-6	66		Thoros of Myr	3770
+3-2	22		Anguy	241
+3-3	23		Anguy	266
+3-4	24		Anguy	568
+3-5	25		Anguy	819
+3-6	26		Anguy	1135
+3-7	27		Anguy	1152
+3-2	22	bolton	Ramsay Snow	40
+3-3	23	bolton	Ramsay Snow	175
+3-4	24	bolton	Ramsay Snow	436
+3-6	26	bolton	Ramsay Snow	768
+3-7	27	bolton	Ramsay Snow	860
+3-10	30	bolton	Ramsay Snow	1078
+4-2	32	bolton	Ramsay Snow	1572
+4-6	36	bolton	Ramsay Snow	1903
+4-8	38	bolton	Ramsay Snow	2192
+5-3	43	bolton	Ramsay Snow	2411
+5-5	45	bolton	Ramsay Snow	3143
+5-6	46	bolton	Ramsay Snow	3488
+5-7	47	bolton	Ramsay Snow	3726
+5-8	48	bolton	Ramsay Snow	3792
+5-10	50	bolton	Ramsay Snow	3837
+6-1	51	bolton	Ramsay Snow	3998
+6-2	52	bolton	Ramsay Snow	4395
+6-3	53	bolton	Ramsay Snow	4591
+6-4	54	bolton	Ramsay Snow	4793
+6-9	59	bolton	Ramsay Snow	6258
+3-2	22		Locke	58
+3-3	23		Locke	512
+3-4	24		Locke	691
+3-5	25		Locke	803
+3-7	27		Locke	1033
+4-2	32		Locke	1374
+4-4	34		Locke	1735
+4-5	35		Locke	2022
+3-3	23	tully	Hoster Tully	131
+3-3	23	tully	Brynden Tully	423
+3-5	25	tully	Brynden Tully	625
+3-6	26	tully	Brynden Tully	851
+3-7	27	tully	Brynden Tully	916
+3-9	29	tully	Brynden Tully	1474
+6-7	57	tully	Brynden Tully	1703
+6-8	58	tully	Brynden Tully	2003
+3-3	23	tully	Edmure Tully	274
+3-5	25	tully	Edmure Tully	548
+3-6	26	tully	Edmure Tully	774
+3-7	27	tully	Edmure Tully	839
+3-9	29	tully	Edmure Tully	1525
+6-6	56	tully	Edmure Tully	1540
+6-7	57	tully	Edmure Tully	1700
+6-8	58	tully	Edmure Tully	2157
+8-6	73	tully	Edmure Tully	2908
+3-3	23	lannister	Martyn Lannister	47
+3-5	25	lannister	Martyn Lannister	76
+3-3	23	lannister	Willem Lannister	47
+3-5	25	lannister	Willem Lannister	76
+3-3	23		Karl Tanner	190
+3-4	24		Karl Tanner	350
+4-4	34		Karl Tanner	731
+4-5	35		Karl Tanner	1007
+3-3	23		Craster's Wife	35
+3-3	23		Craster's Younger Wife	35
+3-3	23		Baby Sam	35
+3-4	24		Baby Sam	126
+3-6	26		Baby Sam	325
+3-8	28		Baby Sam	716
+3-9	29		Baby Sam	814
+3-10	30		Baby Sam	1229
+4-3	33		Baby Sam	1576
+4-8	38		Baby Sam	1593
+4-9	39		Baby Sam	1809
+5-1	41		Baby Sam	1865
+5-5	45		Baby Sam	1915
+5-7	47		Baby Sam	2141
+5-10	50		Baby Sam	2170
+6-3	53		Baby Sam	2399
+6-6	56		Baby Sam	2797
+6-10	60		Baby Sam	2970
+7-1	61		Baby Sam	3050
+7-5	65		Baby Sam	3200
+7-7	67		Baby Sam	3207
+8-2	69		Baby Sam	3211
+8-3	70		Baby Sam	3345
+3-3	23		Tortured Slave	57
+3-3	23		Greizhen mo Ullhor	176
+3-4	24		Greizhen mo Ullhor	391
+3-3	23		Genna	74
+3-3	23		Marei	74
+4-1	31		Marei	239
+4-3	33		Marei	387
+6-10	60		Marei	409
+8-1	68		Marei	483
+3-3	23		Kayla	74
+4-2	32		Kayla	89
+3-4	24		Sorcerer	20
+3-4	24		Tyrell Lady	61
+3-4	24		Bannen	61
+3-5	25		Karstark Lookout	104
+3-5	25	baratheon	Shireen Baratheon	189
+3-10	30	baratheon	Shireen Baratheon	299
+4-2	32	baratheon	Shireen Baratheon	385
+4-3	33	baratheon	Shireen Baratheon	512
+4-10	40	baratheon	Shireen Baratheon	574
+5-1	41	baratheon	Shireen Baratheon	679
+5-2	42	baratheon	Shireen Baratheon	860
+5-4	44	baratheon	Shireen Baratheon	1082
+5-5	45	baratheon	Shireen Baratheon	1132
+5-9	49	baratheon	Shireen Baratheon	1606
+3-5	25		Grey Worm	103
+3-7	27		Grey Worm	399
+3-8	28		Grey Worm	654
+3-9	29		Grey Worm	907
+4-1	31		Grey Worm	1001
+4-3	33		Grey Worm	1074
+4-4	34		Grey Worm	1360
+4-5	35		Grey Worm	1481
+4-6	36		Grey Worm	1792
+4-8	38		Grey Worm	2199
+4-10	40		Grey Worm	2465
+5-1	41		Grey Worm	2671
+5-2	42		Grey Worm	3215
+5-4	44		Grey Worm	3389
+5-5	45		Grey Worm	3540
+5-10	50		Grey Worm	3760
+6-2	52		Grey Worm	3899
+6-3	53		Grey Worm	4102
+6-4	54		Grey Worm	4526
+6-5	55		Grey Worm	4595
+6-8	58		Grey Worm	4916
+6-9	59		Grey Worm	5177
+6-10	60		Grey Worm	5270
+7-1	61		Grey Worm	5495
+7-2	62		Grey Worm	6468
+7-3	63		Grey Worm	6581
+7-7	67		Grey Worm	6680
+8-1	68		Grey Worm	6900
+8-2	69		Grey Worm	7505
+8-3	70		Grey Worm	7899
+8-4	71		Grey Worm	9068
+8-5	72		Grey Worm	9682
+8-6	73		Grey Worm	10952
+3-5	25		Olyvar	102
+4-1	31		Olyvar	419
+4-3	33		Olyvar	567
+5-1	41		Olyvar	678
+5-3	43		Olyvar	745
+5-4	44		Olyvar	785
+5-6	46		Olyvar	907
+3-6	26	frey	Black Walder Rivers	123
+3-9	29	frey	Black Walder Rivers	496
+6-6	56	frey	Black Walder Rivers	621
+6-7	57	frey	Black Walder Rivers	781
+6-10	60	frey	Black Walder Rivers	896
+3-6	26	frey	Lothar Frey	123
+3-9	29	frey	Lothar Frey	622
+6-6	56	frey	Lothar Frey	747
+6-7	57	frey	Lothar Frey	907
+6-8	58	frey	Lothar Frey	975
+6-10	60	frey	Lothar Frey	1090
+3-7	27		Razdal mo Eraz	252
+6-4	54		Razdal mo Eraz	422
+6-9	59		Razdal mo Eraz	641
+3-7	27		Myranda	323
+4-2	32		Myranda	464
+4-6	36		Myranda	496
+5-3	43		Myranda	558
+5-5	45		Myranda	815
+5-6	46		Myranda	1104
+5-10	50		Myranda	1194
+6-1	51		Myranda	1270
+3-7	27		Violet	323
+3-7	27		Steelshanks Walton	172
+3-7	27		The Bear	138
+3-8	28		Mero	314
+3-8	28		Prendahl na Ghezn	314
+3-8	28		Daario Naharis	498
+3-9	29		Daario Naharis	701
+3-10	30		Daario Naharis	968
+4-1	31		Daario Naharis	1157
+4-3	33		Daario Naharis	1511
+4-5	35		Daario Naharis	1632
+4-7	37		Daario Naharis	1808
+5-1	41		Daario Naharis	2047
+5-2	42		Daario Naharis	2591
+5-4	44		Daario Naharis	2660
+5-5	45		Daario Naharis	2927
+5-7	47		Daario Naharis	3082
+5-9	49		Daario Naharis	4026
+5-10	50		Daario Naharis	4279
+6-1	51		Daario Naharis	4450
+6-4	54		Daario Naharis	4914
+6-5	55		Daario Naharis	5106
+6-6	56		Daario Naharis	5349
+6-9	59		Daario Naharis	5356
+6-10	60		Daario Naharis	5572
+3-8	28		Yunkai'i Whore	124
+3-9	29		Merry Frey	307
+3-9	29		Hog Farmer	105
+3-9	29		Old Man	142
+4-7	37		Old Man	328
+3-9	29		Wendel Manderly	214
+3-9	29	frey	Roslin Frey	379
+3-9	29		Frey Guard	30
+3-10	30		Desmond Crakehall	23
+3-10	30		Eldrick Sarsfield	23
+3-10	30		Frey Soldier #1	130
+3-10	30		Frey Soldier #2	130
+3-10	30		Todder	13
+5-8	48		Todder	236
+3-10	30		Fruit Vendor	20
+4-1	31		Lord Blackmont	83
+4-1	31	martell	Oberyn Martell	454
+4-2	32	martell	Oberyn Martell	882
+4-3	33	martell	Oberyn Martell	1258
+4-5	35	martell	Oberyn Martell	1458
+4-6	36	martell	Oberyn Martell	2733
+4-7	37	martell	Oberyn Martell	3033
+4-8	38	martell	Oberyn Martell	3351
+4-1	31	martell	Ellaria Sand	328
+4-2	32	martell	Ellaria Sand	484
+4-3	33	martell	Ellaria Sand	632
+4-8	38	martell	Ellaria Sand	950
+5-2	42	martell	Ellaria Sand	1088
+5-4	44	martell	Ellaria Sand	1222
+5-6	46	martell	Ellaria Sand	1258
+5-9	49	martell	Ellaria Sand	1606
+5-10	50	martell	Ellaria Sand	1719
+6-1	51	martell	Ellaria Sand	1854
+6-10	60	martell	Ellaria Sand	1951
+7-2	62	martell	Ellaria Sand	2274
+7-3	63	martell	Ellaria Sand	2798
+4-1	31		Whore #1	106
+5-4	44		Whore #1	172
+4-1	31		Whore #2	106
+5-4	44		Whore #2	172
+4-1	31		Morgan	114
+6-7	57		Morgan	204
+6-8	58		Morgan	283
+4-1	31		Morgan's Friend	114
+4-1	31		Styr	129
+4-3	33		Styr	232
+4-8	38		Styr	311
+4-9	39		Styr	748
+4-1	31		Thenn Warg	129
+4-3	33		Thenn Warg	186
+4-9	39		Thenn Warg	524
+4-1	31		Ser Endrew Tarth	25
+4-1	31		Innkeeper's Daughter	65
+4-1	31		Innkeeper	95
+4-2	32		Tansy	141
+4-2	32	bolton	Walda Bolton	36
+5-3	43	bolton	Walda Bolton	98
+5-5	45	bolton	Walda Bolton	387
+5-6	46	bolton	Walda Bolton	502
+6-2	52	bolton	Walda Bolton	674
+4-2	32	tyrell	Mace Tyrell	821
+4-5	35	tyrell	Mace Tyrell	933
+4-6	36	tyrell	Mace Tyrell	2063
+4-8	38	tyrell	Mace Tyrell	2363
+5-1	41	tyrell	Mace Tyrell	2396
+5-2	42	tyrell	Mace Tyrell	2574
+5-3	43	tyrell	Mace Tyrell	2694
+5-4	44	tyrell	Mace Tyrell	2782
+5-9	49	tyrell	Mace Tyrell	2923
+6-3	53	tyrell	Mace Tyrell	3052
+6-6	56	tyrell	Mace Tyrell	3359
+6-8	58	tyrell	Mace Tyrell	3522
+6-10	60	tyrell	Mace Tyrell	3873
+4-2	32		Axell Florent	33
+4-2	32		Musician #1	23
+6-5	55		Musician #1	252
+6-6	56		Musician #1	417
+4-2	32		Musician #2	23
+6-5	55		Musician #2	252
+6-6	56		Musician #2	417
+4-2	32		Musician #3	23
+6-5	55		Musician #3	252
+6-6	56		Musician #3	417
+4-2	32		King Joffrey Baratheon Dwarf	272
+4-2	32		King Stannis Baratheon Dwarf	272
+4-2	32		King Renly Baratheon Dwarf	272
+4-2	32		King Robb Stark Dwarf	272
+4-2	32		King Balon Greyjoy Dwarf	272
+4-3	33		Farmer Hamlet	280
+7-1	61		Farmer Hamlet	357
+4-3	33		Farmer's Daughter	280
+7-1	61		Farmer's Daughter	357
+4-3	33		Night's Watchman	22
+6-4	54		Night's Watchman	39
+4-3	33		Mole's Town Whore	67
+4-8	38		Mole's Town Whore	255
+4-3	33		Mole's Town Madam	67
+4-3	33		King's Landing Whore	148
+5-10	50		King's Landing Whore	254
+4-3	33		Olly	194
+4-4	34		Olly	481
+4-7	37		Olly	515
+4-9	39		Olly	708
+4-10	40		Olly	808
+5-1	41		Olly	945
+5-2	42		Olly	1247
+5-3	43		Olly	1793
+5-4	44		Olly	1829
+5-5	45		Olly	2059
+5-7	47		Olly	2194
+5-8	48		Olly	2328
+5-9	49		Olly	2358
+5-10	50		Olly	2507
+6-1	51		Olly	2624
+6-2	52		Olly	2803
+6-3	53		Olly	2988
+4-3	33		Guymon	26
+4-3	33		Olly's Mother	14
+4-3	33		Hizdahr zo Loraq	195
+4-6	36		Hizdahr zo Loraq	382
+5-1	41		Hizdahr zo Loraq	472
+5-2	42		Hizdahr zo Loraq	779
+5-4	44		Hizdahr zo Loraq	817
+5-5	45		Hizdahr zo Loraq	1180
+5-7	47		Hizdahr zo Loraq	1408
+5-9	49		Hizdahr zo Loraq	2068
+4-3	33		Oznak zo Pahl	224
+4-4	34		Mossador	114
+5-1	41		Mossador	173
+5-2	42		Mossador	495
+4-4	34		Elder Meereen Slave	114
+4-4	34		Valyrian Slave	114
+4-4	34		Great Master #1	46
+5-5	45		Great Master #1	163
+4-4	34		Sissy	381
+4-5	35		Sissy	585
+4-4	34		Craster's Wife #2	86
+4-4	34		Craster's Wife #3	86
+4-4	34		Morag	86
+4-5	35		Morag	203
+4-4	34		The Night King	52
+5-8	48		The Night King	284
+6-5	55		The Night King	482
+6-6	56		The Night King	513
+7-1	61		The Night King	619
+7-5	65		The Night King	625
+7-6	66		The Night King	892
+7-7	67		The Night King	991
+8-3	70		The Night King	1623
+4-5	35		Donnel Waynwood	34
+4-8	38		Donnel Waynwood	73
+4-6	36		Tycho Nestoris	263
+5-9	49		Tycho Nestoris	383
+7-3	63		Tycho Nestoris	546
+7-4	64		Tycho Nestoris	636
+4-6	36		Lhara	145
+5-8	48		Lhara	176
+5-9	49		Lhara	218
+4-6	36		Bathhouse Prostitute	145
+4-6	36		Bolton Guard	66
+4-6	36		First Mate	177
+4-6	36		Ironborn in Skiff	11
+4-6	36		Goatherd	168
+4-10	40		Goatherd	235
+4-6	36		Goatherd's Son	64
+4-6	36		Manservant	187
+4-8	38		Kegs	188
+4-8	38		Black Jack Bulwer	188
+4-8	38		Mully	188
+4-8	38		Ralf Kenning	139
+4-8	38		Adrack Humble	190
+4-8	38		Yohn Royce	498
+5-1	41		Yohn Royce	572
+6-4	54		Yohn Royce	761
+6-10	60		Yohn Royce	1040
+7-1	61		Yohn Royce	1340
+7-2	62		Yohn Royce	1577
+7-3	63		Yohn Royce	1655
+7-5	65		Yohn Royce	1725
+7-7	67		Yohn Royce	2065
+8-1	68		Yohn Royce	2330
+8-2	69		Yohn Royce	2854
+8-4	71		Yohn Royce	3288
+8-6	73		Yohn Royce	4039
+4-8	38		Anya Waynwood	498
+4-8	38		Vance Corbray	392
+4-9	39		Mag the Mighty	274
+4-9	39		Donnel Hill	161
+4-9	39		Cooper	161
+4-10	40		Fennesz	169
+4-10	40		Leaf	176
+6-2	52		Leaf	256
+6-3	53		Leaf	326
+6-5	55		Leaf	725
+6-6	56		Leaf	735
+4-10	40		Ternesio Terys	61
+5-2	42		Ternesio Terys	195
+5-1	41	lannister	Young Cersei Lannister	250
+5-1	41		Melara Hetherspoon	250
+5-1	41		Maggy	153
+5-1	41		White Rat	126
+5-1	41		Vala	119
+5-4	44		Vala	168
+6-3	53		Vala	389
+5-1	41		Sparring Boy	74
+5-1	41		Strong Sam Stone	55
+5-2	42		Faceless Man	147
+5-2	42		Inn Waitress	80
+5-2	42		Eyrie Guard	369
+5-2	42		Lollys Stokeworth	122
+5-2	42	martell	Trystane Martell	33
+5-6	46	martell	Trystane Martell	279
+5-9	49	martell	Trystane Martell	546
+5-10	50	martell	Trystane Martell	609
+6-1	51	martell	Trystane Martell	679
+5-2	42	martell	Doran Martell	116
+5-6	46	martell	Doran Martell	149
+5-9	49	martell	Doran Martell	476
+5-10	50	martell	Doran Martell	539
+6-1	51	martell	Doran Martell	674
+5-2	42		Areo Hotah	112
+5-6	46		Areo Hotah	204
+5-7	47		Areo Hotah	220
+5-9	49		Areo Hotah	578
+5-10	50		Areo Hotah	641
+6-1	51		Areo Hotah	723
+5-2	42		Son of the Harpy	81
+5-2	42		Dwarf Hunter #1	35
+5-2	42		Dwarf Hunter #2	35
+5-2	42		Denys Mallister	302
+5-2	42		Mallister Supporter	233
+5-2	42		Street Tough #1	51
+5-2	42		Street Tough #2	51
+5-3	43		Despondent Man	116
+5-3	43		The Waif	308
+5-6	46		The Waif	431
+5-8	48		The Waif	453
+5-10	50		The Waif	512
+6-1	51		The Waif	586
+6-2	52		The Waif	623
+6-3	53		The Waif	829
+6-5	55		The Waif	927
+6-6	56		The Waif	980
+6-7	57		The Waif	1022
+6-8	58		The Waif	1299
+5-3	43		Old Woman	30
+5-5	45		Old Woman	65
+5-7	47		Old Woman	136
+5-3	43		Bowen Marsh	178
+5-5	45		Bowen Marsh	269
+5-7	47		Bowen Marsh	501
+5-9	49		Bowen Marsh	536
+5-10	50		Bowen Marsh	651
+6-1	51		Bowen Marsh	870
+6-2	52		Bowen Marsh	952
+6-3	53		Bowen Marsh	1137
+5-3	43		The Stranger	67
+5-3	43		The Warrior	41
+5-3	43		The Smith	41
+5-3	43		The Mother	41
+5-3	43		The Maiden	67
+5-3	43		The Crone	41
+5-3	43		High Sparrow	169
+5-4	44		High Sparrow	287
+5-6	46		High Sparrow	555
+5-7	47		High Sparrow	1025
+5-10	50		High Sparrow	1355
+6-1	51		High Sparrow	1440
+6-2	52		High Sparrow	1628
+6-3	53		High Sparrow	1856
+6-4	54		High Sparrow	2105
+6-6	56		High Sparrow	2450
+6-7	57		High Sparrow	2619
+6-10	60		High Sparrow	3092
+5-3	43		Beggar Woman	169
+5-3	43		Red Priestess	82
+6-8	58		Red Priestess	119
+5-3	43		Brothel Guard	29
+5-3	43		Sellsword #1	100
+5-3	43		Sellsword #2	100
+5-3	43		The Mother of Dragons	100
+5-3	43		Clea	106
+5-4	44		Merchant Captain	109
+5-4	44		Faith Militant #1	160
+5-4	44		Faith Militant #2	85
+5-4	44		Whore #3	66
+5-4	44		Whore #4	66
+5-4	44		Whore #5	66
+5-4	44		Whore #6	66
+5-4	44		Lead Kingsguard	75
+5-4	44		Lead Dornish Guard	182
+5-4	44	martell	Obara Sand	134
+5-6	46	martell	Obara Sand	304
+5-7	47	martell	Obara Sand	528
+5-9	49	martell	Obara Sand	674
+5-10	50	martell	Obara Sand	787
+6-1	51	martell	Obara Sand	857
+6-10	60	martell	Obara Sand	954
+7-2	62	martell	Obara Sand	1037
+5-4	44	martell	Tyene Sand	134
+5-6	46	martell	Tyene Sand	304
+5-7	47	martell	Tyene Sand	528
+5-9	49	martell	Tyene Sand	674
+5-10	50	martell	Tyene Sand	787
+6-1	51	martell	Tyene Sand	922
+6-10	60	martell	Tyene Sand	1019
+7-2	62	martell	Tyene Sand	1094
+7-3	63	martell	Tyene Sand	1618
+5-4	44	martell	Nymeria Sand	134
+5-6	46	martell	Nymeria Sand	304
+5-7	47	martell	Nymeria Sand	528
+5-9	49	martell	Nymeria Sand	674
+5-10	50	martell	Nymeria Sand	787
+6-1	51	martell	Nymeria Sand	857
+6-10	60	martell	Nymeria Sand	954
+7-2	62	martell	Nymeria Sand	1052
+5-4	44		Second Son	49
+5-5	45		Great Master #2	175
+5-5	45		Great Master #3	175
+5-5	45		Great Master #4	175
+5-5	45		Great Master #5	175
+5-5	45		Great Master #6	175
+5-5	45		Great Master #7	175
+5-5	45		Winter Town Man	82
+5-5	45		Stone Man	70
+5-6	46		Ghita	224
+5-10	50		Ghita	322
+5-6	46		Malko	186
+5-7	47		Malko	328
+5-6	46		Slaver	186
+5-7	47		Derek	152
+5-7	47		Brant	152
+5-7	47		Yezzan zo Qaggaz	415
+5-8	48		Yezzan zo Qaggaz	470
+6-4	54		Yezzan zo Qaggaz	640
+6-9	59		Yezzan zo Qaggaz	901
+5-7	47		Tyrell Guard	14
+5-7	47		Septa Unella	61
+5-8	48		Septa Unella	192
+5-10	50		Septa Unella	699
+6-1	51		Septa Unella	748
+6-4	54		Septa Unella	805
+6-6	56		Septa Unella	1086
+6-7	57		Septa Unella	1223
+6-10	60		Septa Unella	1452
+5-8	48		Thin Man	111
+5-9	49		Thin Man	186
+5-8	48		Braavosi Captain	111
+5-8	48		Karsi	795
+5-8	48		Loboda	642
+5-8	48		Wun Wun	674
+5-9	49		Wun Wun	759
+6-2	52		Wun Wun	820
+6-7	57		Wun Wun	950
+6-9	59		Wun Wun	1464
+5-8	48		Dim Dalba	380
+6-7	57		Dim Dalba	545
+5-8	48		Johnna	91
+5-9	49		Johnna	146
+5-8	48		Willa	91
+5-9	49		Willa	146
+8-4	71		Willa	168
+5-9	49		Sailor	22
+5-9	49		Lannister Guard #1	193
+5-9	49		Lannister Guard #2	193
+5-9	49		Brusco	42
+5-9	49		Young Braavosi	42
+5-9	49		Braavosi Madam	162
+5-9	49		Whore	162
+5-9	49		Brea	162
+5-9	49		Anara	162
+5-9	49		Aya	162
+5-9	49		Pit Announcer	137
+5-10	50		Baratheon General	248
+5-10	50		Baratheon Soldier #1	79
+5-10	50		Baratheon Soldier #2	66
+5-10	50		Gordy	21
+5-10	50		Simpson	21
+5-10	50		Brothel Child #1	76
+5-10	50		Brothel Child #2	76
+5-10	50		Septa Moelle	227
+5-10	50		Septa Scolera	227
+5-10	50		King's Landing Drunkard	106
+5-10	50		King's Landing Flasher #1	106
+5-10	50		King's Landing Flasher #2	106
+6-1	51		Loyal Night's Watchman #1	374
+6-2	52		Loyal Night's Watchman #1	456
+6-1	51		Loyal Night's Watchman #2	374
+6-2	52		Loyal Night's Watchman #2	456
+6-1	51		Night's Watchman #1	117
+6-1	51		Night's Watchman #2	117
+6-5	55		Night's Watchman #2	141
+6-1	51		Maester Wolkan	76
+6-2	52		Maester Wolkan	209
+7-1	61		Maester Wolkan	221
+7-2	62		Maester Wolkan	248
+7-3	63		Maester Wolkan	310
+7-5	65		Maester Wolkan	370
+7-6	66		Maester Wolkan	397
+7-7	67		Maester Wolkan	737
+8-1	68		Maester Wolkan	784
+8-2	69		Maester Wolkan	854
+8-4	71		Maester Wolkan	868
+6-1	51		Bolton Officer	165
+6-1	51		Bolton Soldier	165
+6-1	51		Maester Caleotte	40
+6-1	51		Meereenese Homeless Mother	38
+6-1	51		Zanrush	31
+6-5	55		Zanrush	305
+6-1	51		Akho	318
+6-3	53		Akho	407
+6-4	54		Akho	545
+6-1	51		Qhono	318
+6-3	53		Qhono	407
+6-4	54		Qhono	440
+7-3	63		Qhono	1288
+7-4	64		Qhono	1377
+7-5	65		Qhono	1841
+7-7	67		Qhono	3168
+8-1	68		Qhono	3382
+8-2	69		Qhono	3569
+8-3	70		Qhono	3573
+6-1	51		Khal Moro	220
+6-3	53		Khal Moro	231
+6-4	54		Khal Moro	497
+6-1	51		Moro's Wife #1	220
+6-1	51		Moro's Wife #2	220
+6-1	51		Dothraki Bloodrider #1	220
+6-4	54		Dothraki Bloodrider #1	486
+6-1	51		Dothraki Bloodrider #2	220
+6-4	54		Dothraki Bloodrider #2	486
+6-2	52	stark	Young Ned Stark	125
+6-3	53	stark	Young Ned Stark	448
+6-5	55	stark	Young Ned Stark	476
+6-6	56	stark	Young Ned Stark	486
+6-10	60	stark	Young Ned Stark	640
+7-7	67	stark	Young Ned Stark	660
+6-2	52		Young Rodrik Cassel	73
+6-5	55		Young Rodrik Cassel	101
+6-2	52	stark	Young Benjen Stark	125
+6-5	55	stark	Young Benjen Stark	138
+6-2	52	stark	Young Lyanna Stark	84
+6-2	52		Wyllis	52
+6-5	55		Wyllis	136
+6-2	52		Young Nan	22
+6-5	55		Young Nan	69
+6-2	52		King's Landing Boaster	71
+6-2	52		Lannister Captain	56
+6-2	52		Harald Karstark	225
+6-3	53		Harald Karstark	421
+6-9	59		Harald Karstark	698
+6-2	52		Newborn Bolton	172
+6-2	52	greyjoy	Euron Greyjoy	155
+6-5	55	greyjoy	Euron Greyjoy	521
+7-1	61	greyjoy	Euron Greyjoy	758
+7-2	62	greyjoy	Euron Greyjoy	983
+7-3	63	greyjoy	Euron Greyjoy	1221
+7-7	67	greyjoy	Euron Greyjoy	1900
+8-1	68	greyjoy	Euron Greyjoy	2264
+8-4	71	greyjoy	Euron Greyjoy	2853
+8-5	72	greyjoy	Euron Greyjoy	3146
+6-2	52	greyjoy	Aeron Greyjoy	87
+6-5	55	greyjoy	Aeron Greyjoy	601
+6-3	53		Arthur Dayne	286
+6-3	53		Gerold Hightower	165
+6-3	53		Howland Reed	323
+6-3	53		High Priestess	156
+6-4	54		High Priestess	284
+6-3	53		Ornela	135
+6-4	54		Ornela	337
+6-3	53		Dothraki Widow #1	135
+6-4	54		Dothraki Widow #1	206
+6-3	53		Dothraki Widow #2	135
+6-4	54		Dothraki Widow #2	206
+6-3	53		Frances	85
+6-10	60		Frances	147
+6-3	53		Arthur	85
+6-10	60		Arthur	187
+6-3	53		Little Bird #3	85
+6-10	60		Little Bird #3	180
+6-3	53		Little Bird #4	85
+6-10	60		Little Bird #4	133
+6-3	53		Little Bird #5	85
+6-10	60		Little Bird #5	133
+6-3	53		Little Bird #6	85
+6-10	60		Little Bird #6	133
+6-3	53		Little Bird #7	85
+6-10	60		Little Bird #7	133
+6-3	53		Smalljon Umber	206
+6-9	59		Smalljon Umber	847
+6-4	54		Belicho Paenymion	170
+6-9	59		Belicho Paenymion	389
+6-4	54		Kesh	138
+6-4	54		Ash	138
+6-4	54		Dothraki Woman Having Sex	26
+6-4	54		Dothraki Man Having Sex	26
+6-4	54		Iggo	138
+6-4	54		Khal Forzho	266
+6-4	54		Khal Brozho	266
+6-4	54		Khal Rhalko	266
+6-4	54		Khal Qorro	266
+6-5	55		Izembaro	285
+6-6	56		Izembaro	570
+6-5	55		Lady Crane	285
+6-6	56		Lady Crane	650
+6-8	58		Lady Crane	1066
+6-5	55		Camello	285
+6-6	56		Camello	540
+6-5	55		Bobono	285
+6-6	56		Bobono	577
+6-5	55		Bianca	285
+6-6	56		Bianca	561
+6-5	55		Clarenzo	285
+6-6	56		Clarenzo	472
+6-8	58		Clarenzo	559
+6-5	55		Mummer #2	229
+6-6	56		Mummer #2	394
+6-5	55		Mummer #3	229
+6-6	56		Mummer #3	394
+6-5	55		Mummer #4	229
+6-6	56		Mummer #4	394
+6-5	55		Musician #4	229
+6-6	56		Musician #4	394
+6-5	55		Musician #5	229
+6-6	56		Musician #5	394
+6-5	55		Braavosi Woman #1	229
+6-5	55		Braavosi Woman #2	229
+6-5	55		Braavosi Theatre Server	229
+6-5	55		Braavosi Theatre Sound Artist	229
+6-6	56		Braavosi Theatre Sound Artist	248
+6-5	55		Margaery Tyrell Mummer	56
+6-6	56		Margaery Tyrell Mummer	311
+6-5	55		Ironborn #1	340
+6-5	55		Ironborn #2	340
+6-5	55		Ironborn #3	340
+6-5	55		Kinvara	274
+6-5	55	stark	Rickard Stark	15
+6-6	56		Aerys Targaryen	23
+6-6	56		Melessa Tarly	475
+6-6	56	tarly	Talla Tarly	475
+6-6	56		Randyll Tarly	383
+7-2	62		Randyll Tarly	609
+7-3	63		Randyll Tarly	628
+7-4	64		Randyll Tarly	877
+7-5	65		Randyll Tarly	1157
+6-6	56		Dickon Tarly	383
+7-2	62		Dickon Tarly	507
+7-3	63		Dickon Tarly	526
+7-4	64		Dickon Tarly	842
+7-5	65		Dickon Tarly	1122
+6-6	56	frey	Kitty Frey	140
+7-1	61	frey	Kitty Frey	346
+6-7	57		Brother Ray	530
+6-7	57	mormont	Lyanna Mormont	325
+6-9	59	mormont	Lyanna Mormont	602
+6-10	60	mormont	Lyanna Mormont	881
+7-1	61	mormont	Lyanna Mormont	1181
+7-2	62	mormont	Lyanna Mormont	1418
+8-1	68	mormont	Lyanna Mormont	1649
+8-2	69	mormont	Lyanna Mormont	2184
+8-3	70	mormont	Lyanna Mormont	2323
+8-4	71	mormont	Lyanna Mormont	2402
+6-7	57		Bear Island Maester	325
+6-7	57		Robett Glover	149
+6-10	60		Robett Glover	428
+7-1	61		Robett Glover	728
+7-2	62		Robett Glover	965
+7-5	65		Robett Glover	1035
+8-1	68		Robett Glover	1126
+6-7	57		Volantene Whore #1	44
+6-7	57		Volantene Whore #2	44
+6-7	57		Volantene Whore #3	44
+6-7	57		Volantene Whore #4	44
+6-7	57		Volantene Whore #5	44
+6-7	57		Ironborn at Brothel	44
+6-7	57		Ironborn Abusing a Volantene Whore	44
+6-7	57		Northman Rioter	23
+6-7	57		Wildling Rioter	23
+6-7	57		Lem Lemoncloak	90
+6-8	58		Lem Lemoncloak	252
+6-7	57		Gatins	90
+6-8	58		Gatins	191
+6-7	57		Westerosi Trader	47
+6-7	57		The Waif's Disguise	42
+6-8	58		The Waif's Disguise	53
+6-8	58		Riddell	79
+6-8	58		Steve	73
+6-8	58		Lannister Soldier	51
+6-8	58		Tully Bannerman	128
+6-9	59		Bolton General	34
+6-10	60		Tommen's Manservant	62
+6-10	60		Citadel Maester	144
+6-10	60	stark	Lyanna Stark	132
+7-7	67	stark	Lyanna Stark	182
+6-10	60		Baby Jon Snow	39
+6-10	60		Wyman Manderly	279
+6-10	60		Cley Cerwyn	279
+7-1	61		Wun Wun Wight	106
+8-3	70		Wun Wun Wight	175
+7-1	61		Mag the Mighty Wight	106
+7-1	61		Alys Karstark	300
+7-2	62		Alys Karstark	537
+8-1	68		Alys Karstark	544
+8-2	69		Alys Karstark	1018
+8-3	70		Alys Karstark	1050
+7-1	61	umber	Ned Umber	83
+7-2	62	umber	Ned Umber	320
+8-1	68	umber	Ned Umber	513
+7-1	61		Archmaester Ebrose	199
+7-2	62		Archmaester Ebrose	389
+7-3	63		Archmaester Ebrose	566
+7-5	65		Archmaester Ebrose	747
+7-3	63		Harrag	46
+7-4	64		Harrag	144
+7-7	67		Harrag	397
+7-3	63		Bernadette	18
+7-4	64		Koner	137
+7-4	64		Henk	137
+7-5	65		Maester Sandhu	181
+7-5	65		Kevin Eldon	189
+7-5	65		Laurence Spellman	189
+7-5	65		Adele Smyth-Kennedy	36
+7-7	67	targaryen	Rhaegar Targaryen	30
+8-1	68		Winterfell Boy	74
+8-1	68		Village Woman	19
+8-1	68		Harry Strickland	71
+8-5	72		Harry Strickland	179
+8-1	68		Craya	74
+8-1	68		Dirah	74
+8-2	69		Fergus	45
+8-3	70		Fergus	47
+8-2	69		Teela	54
+8-3	70		Teela	285
+8-5	72		Martha	53
+8-5	72		Eleanor	242
+8-6	73		Eleanor	289
+8-5	72		Eleanor's Daughter	242
+8-6	73		Eleanor's Daughter	289
+8-5	72		Northern Guard	36
+8-5	72		Unsullied Soldier	61
+8-6	73		Dornish Lord	751
+8-6	73		Lord #1	751
+8-6	73		Lord #2	751
+8-6	73		Lord #3	751
+8-6	73		Lord #4	751

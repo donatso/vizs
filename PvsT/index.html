@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>example</title>
+
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.12.0/d3.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        background-color: black;
+      }
+    </style>
+
+  </head>
+  <body>
+    <div id="app">
+      <circle-addition />
+    </div>
+
+    <script type="module">
+      import CircleAddition from "./CircleAddition.js";
+
+      Vue.component("circle-addition", CircleAddition)
+
+      new Vue({
+        el: "#app"
+      });
+    </script>
+  </body>
+</html>
